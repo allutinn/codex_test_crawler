@@ -1,0 +1,3340 @@
+{
+  "company_id": "119082",
+  "detail_payload": {
+    "additionalContacts": [
+      {
+        "contactType": "HEADER1",
+        "contacts": [
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "4284259023_119082",
+            "mobile": "040 041 ●●●●",
+            "name": "Anna Nordgren",
+            "phone": "",
+            "title": "Asiakkuusjohtaja"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "5785571171_119082",
+            "mobile": "040 502 ●●●●",
+            "name": "Annastiina Palmroth-Holst",
+            "phone": "",
+            "title": "Liiketoimintajohtaja MedLab"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "4284257763_119082",
+            "mobile": "050 551 ●●●●",
+            "name": "Antti Korpiniemi",
+            "phone": "",
+            "title": "Toimitusjohtaja"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "4284259007_119082",
+            "mobile": "050 308 ●●●●",
+            "name": "Christa Eklund",
+            "phone": "",
+            "title": "Account Director"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "4284258755_119082",
+            "mobile": "050 522 ●●●●",
+            "name": "Juha Starck",
+            "phone": "",
+            "title": "Toimitusketjun johtaja"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "4284258991_119082",
+            "mobile": "050 595 ●●●●",
+            "name": "Jukka Rouvinen",
+            "phone": "",
+            "title": "Myyntijohtaja"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "1938520796_119082",
+            "mobile": "050 341 ●●●●",
+            "name": "Kalle Erkkola",
+            "phone": "",
+            "title": "Liiketoimintajohtaja, Viljelijän Berner"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "1938525345_119082",
+            "mobile": "",
+            "name": "Mika Pirhonen",
+            "phone": "020 791 ●●●●",
+            "title": "Liiketoimintajohtaja, Teollisuuden Berner"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "5785571199_119082",
+            "mobile": "044 555 ●●●●",
+            "name": "Mikko Mild",
+            "phone": "",
+            "title": "KAM"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "4284257778_119082",
+            "mobile": "040 050 ●●●●",
+            "name": "Nicolas Berner",
+            "phone": "",
+            "title": "Hallinto- ja kehitysjohtaja"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "4314056525_119082",
+            "mobile": "040 701 ●●●●",
+            "name": "Oiva Palojoki",
+            "phone": "",
+            "title": "Asiakkuuspäällikkö"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "4284258770_119082",
+            "mobile": "050 547 ●●●●",
+            "name": "Petri Tervonen",
+            "phone": "",
+            "title": "Liiketoimintajohtaja, Kuluttajatuotteet"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "5785571213_119082",
+            "mobile": "050 088 ●●●●",
+            "name": "Sari Relander",
+            "phone": "",
+            "title": "KAM"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "4284258976_119082",
+            "mobile": "040 515 ●●●●",
+            "name": "Suvi Kemmo",
+            "phone": "",
+            "title": "Myyntijohtaja, Laboratoriot"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "3153743581_119082",
+            "mobile": "044 359 ●●●●",
+            "name": "Teemu Palviainen",
+            "phone": "",
+            "title": "Berner Oy\tTeemu Palviainen\tHitsaajankatu 22-24\t+358443595044\tMyyntijohtaja, Teollisuuden Berner\t\twww.berner.fi\tteemu.palviainen@berner.fi"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "4284258961_119082",
+            "mobile": "043 824 ●●●●",
+            "name": "Tomi Virtanen",
+            "phone": "",
+            "title": "Talous- ja analytiikkajohtaja"
+          },
+          {
+            "contactType": "PERSON",
+            "customerType": "PLUS",
+            "id": "5785571143_119082",
+            "mobile": "050 043 ●●●●",
+            "name": "Tommi Suutarinen",
+            "phone": "",
+            "title": "Sales Director"
+          },
+          {
+            "contactType": "SERVICE",
+            "customerType": "PLUS",
+            "id": "334031971_119082",
+            "mobile": "",
+            "name": "Vaihde/Aulapalvelut",
+            "phone": "020 7●●●●",
+            "tariffInfo": "Hitsaajankatu 22-24, 00810 Helsinki"
+          }
+        ],
+        "name": ""
+      }
+    ],
+    "address": {
+      "postOffice": "HELSINKI",
+      "postalCode": "00810",
+      "streetAddress": "Hitsaajankatu 24"
+    },
+    "aiProfile": {
+      "business_id": "01070115",
+      "company_site": [
+        {
+          "business_id": "01070115",
+          "company_name": "Berner Oy",
+          "contact_details": [
+            {
+              "data": "+358 20 791 00",
+              "title": "Vaihde",
+              "type": "phone"
+            },
+            {
+              "data": "info@berner.fi",
+              "title": " ",
+              "type": "email"
+            },
+            {
+              "data": "berneroy@pdf.basware.com",
+              "title": "Sähköpostilaskut",
+              "type": "email"
+            },
+            {
+              "data": "bernershop@berner.fi",
+              "title": "Palvelemme osoitteessa Hitsaajankatu 24, 00810 Helsinki",
+              "type": "email"
+            },
+            {
+              "data": "020 791 4050",
+              "title": "Kuluttajaneuvonta ja -palautteet",
+              "type": "phone"
+            },
+            {
+              "data": "kuluttajapalvelu@berner.fi",
+              "title": "Kuluttajaneuvonta ja -palautteet",
+              "type": "email"
+            },
+            {
+              "data": "lvneuvonta@berner.fi",
+              "title": "Kuluttajaneuvonta ja -palautteet",
+              "type": "email"
+            },
+            {
+              "data": "ainuneuvonta@berner.fi",
+              "title": "Kuluttajaneuvonta ja -palautteet",
+              "type": "email"
+            },
+            {
+              "data": "omronneuvonta@berner.fi",
+              "title": "Kuluttajaneuvonta ja -palautteet",
+              "type": "email"
+            },
+            {
+              "data": "020 791 4000",
+              "title": "tilaukset ja tiedustelut jälleenmyyjille",
+              "type": "phone"
+            },
+            {
+              "data": "asiakaspalvelu@berner.fi",
+              "title": "tilaukset ja tiedustelut jälleenmyyjille",
+              "type": "email"
+            },
+            {
+              "data": "Hitsaajankatu 24, 00810 Helsinki",
+              "title": "Pääkonttori",
+              "type": "address"
+            },
+            {
+              "data": "Katriinantie 20, 01530 Vantaa",
+              "title": "Logistiikka",
+              "type": "address"
+            },
+            {
+              "data": "Yrittäjätie 5, 79700 Heinävesi",
+              "title": "Heinäveden tehdas",
+              "type": "address"
+            },
+            {
+              "data": "Mustikkatie 7, 79700 Heinävesi",
+              "title": "Heinäveden tehdas",
+              "type": "address"
+            },
+            {
+              "data": "Karpalotie 6, 79700 Heinävesi",
+              "title": "Heinäveden tehdas",
+              "type": "address"
+            },
+            {
+              "data": "Hemsögatan 10 B, 20211 Malmö, Sverige",
+              "title": "Bröderna Berner AB",
+              "type": "address"
+            },
+            {
+              "data": "Kadaka tee 133, 12915 Tallinn, Estonia",
+              "title": "Berner Eesti OÜ",
+              "type": "address"
+            },
+            {
+              "data": "Lakūnu str. 30, LT 09131 Vilnius, Lithuania",
+              "title": "UAB Berner Lietuva",
+              "type": "address"
+            },
+            {
+              "data": "https://linkedin.com/company/berner",
+              "title": "LinkedIn",
+              "type": "url"
+            },
+            {
+              "data": "https://facebook.com/BernerOy",
+              "title": "Facebook",
+              "type": "url"
+            },
+            {
+              "data": "https://instagram.com/berneroy1883",
+              "title": "Instagram",
+              "type": "url"
+            },
+            {
+              "data": "Hitsaajankatu 24, Helsinki, 00810, Finland",
+              "title": "address",
+              "type": "address"
+            },
+            {
+              "data": "+358 20 791 4000",
+              "title": "Consumer Service",
+              "type": "phone"
+            },
+            {
+              "data": "medlab.tilaukset@berner.fi",
+              "title": "MedLab Customer Service",
+              "type": "email"
+            },
+            {
+              "data": "+358 20 690 761",
+              "title": "MedLab Customer Service",
+              "type": "phone"
+            },
+            {
+              "data": "berner.oy@pdf.basware.com",
+              "title": "Online invoicing",
+              "type": "email"
+            },
+            {
+              "data": "Hitsaajankatu 24, 00810 Helsinki, Finland",
+              "title": "Head Office",
+              "type": "address"
+            },
+            {
+              "data": "Hitsaajankatu 24, FI-00810 Helsinki",
+              "title": "Berner Pro",
+              "type": "address"
+            },
+            {
+              "data": "Katriinantie 20, FI-01530 Vantaa",
+              "title": "Logistics",
+              "type": "address"
+            },
+            {
+              "data": "Karpalotie 6, FI-79700 Heinävesi",
+              "title": "Heinävesi factories",
+              "type": "address"
+            },
+            {
+              "data": "Yrittäjätie 5, FI-79700 Heinävesi",
+              "title": "Heinävesi factories",
+              "type": "address"
+            },
+            {
+              "data": "Katriinantie 20 A, FI-01530 Vantaa",
+              "title": "Berner Machines",
+              "type": "address"
+            },
+            {
+              "data": "Hemsögatan 10 B, 20211 Malmö, Sweden",
+              "title": "Bröderna Berner AB",
+              "type": "address"
+            },
+            {
+              "data": "Ehitajate tee 114, 13517 Tallinn, Estonia",
+              "title": "Berner Eesti OÜ",
+              "type": "address"
+            },
+            {
+              "data": "+358 40 037 2095",
+              "person_name": "Jari Puustinen",
+              "title": "tehtaanjohtaja",
+              "type": "phone"
+            },
+            {
+              "data": "jari.puustinen@berner.fi",
+              "person_name": "Jari Puustinen",
+              "title": "tehtaanjohtaja",
+              "type": "email"
+            }
+          ],
+          "created_at": "2025-05-12T17:34:56",
+          "customers_and_partners": [
+            "OP",
+            "Indigrow AB",
+            "Indigrow AS",
+            "Arespartners Oy",
+            "MIELI Suomen Mielenterveys ry"
+          ],
+          "full_summary_en": "Berner operates in consumer goods, healthcare, industry, and agriculture. The company focuses on continuous development and stakeholder dialogue. Key products include XZ products, LV products and Herbina products.",
+          "full_summary_fi": "Berner toimii kuluttajatuotteiden, terveydenhuollon, teollisuuden ja maatalouden parissa. Yhtiö panostaa jatkuvaan kehitykseen ja sidosryhmävuoropuheluun. Tärkeitä tuotteita ovat XZ-tuotteet, LV-tuotteet ja Herbina-tuotteet.",
+          "persons": {
+            "Jari Puustinen": {
+              "email": [
+                "jari.puustinen@berner.fi"
+              ],
+              "person_name": "Jari Puustinen",
+              "phone": [
+                "+358 40 037 2095"
+              ]
+            }
+          },
+          "products_and_services": [
+            {
+              "availability": true,
+              "name": "Kosmetiikkatuotteita"
+            },
+            {
+              "availability": true,
+              "name": "Päivittäistavaroita"
+            },
+            {
+              "availability": true,
+              "name": "Autonhoitotarvikkeita"
+            },
+            {
+              "availability": true,
+              "name": "Lastentarvikkeita"
+            },
+            {
+              "availability": true,
+              "name": "Hyvinvointituotteita"
+            },
+            {
+              "availability": true,
+              "name": "Elintarvikkeita"
+            },
+            {
+              "availability": false,
+              "name": "Tukituotteet"
+            },
+            {
+              "availability": true,
+              "name": "BernerShop.fi"
+            },
+            {
+              "availability": true,
+              "name": "Uriage"
+            },
+            {
+              "availability": true,
+              "name": "Korrek Pro Center"
+            },
+            {
+              "availability": true,
+              "name": "BeConfident"
+            },
+            {
+              "availability": true,
+              "name": "Berner Medical"
+            },
+            {
+              "availability": true,
+              "name": "Berner Lab"
+            },
+            {
+              "availability": true,
+              "name": "Natuk"
+            },
+            {
+              "availability": true,
+              "name": "Murumuru"
+            },
+            {
+              "availability": true,
+              "name": "BTB13"
+            },
+            {
+              "availability": true,
+              "name": "EKOPHARMA"
+            },
+            {
+              "availability": true,
+              "name": "by Raili"
+            },
+            {
+              "availability": true,
+              "name": "Atopik"
+            },
+            {
+              "availability": true,
+              "name": "Pure=Beauty"
+            },
+            {
+              "availability": true,
+              "name": "Unna Nordic"
+            },
+            {
+              "availability": true,
+              "name": "M2 BEAUTÉ"
+            },
+            {
+              "availability": true,
+              "name": "ROUTE 66"
+            },
+            {
+              "availability": true,
+              "name": "HETI"
+            },
+            {
+              "availability": true,
+              "name": "Gosh"
+            },
+            {
+              "availability": true,
+              "name": "HAI"
+            },
+            {
+              "availability": true,
+              "name": "XZ"
+            },
+            {
+              "availability": true,
+              "name": "LV"
+            },
+            {
+              "availability": true,
+              "name": "Nokian Jalkineet"
+            },
+            {
+              "availability": true,
+              "name": "Herbina"
+            },
+            {
+              "availability": true,
+              "name": "Tummeli"
+            },
+            {
+              "availability": true,
+              "name": "Rajamäen"
+            },
+            {
+              "availability": true,
+              "name": "Lasol"
+            },
+            {
+              "availability": true,
+              "name": "Korrek"
+            },
+            {
+              "availability": true,
+              "name": "Ainu"
+            },
+            {
+              "availability": true,
+              "name": "Oxygenol"
+            },
+            {
+              "availability": true,
+              "name": "Provisor"
+            },
+            {
+              "availability": true,
+              "name": "Bea Pro"
+            },
+            {
+              "availability": true,
+              "name": "GreenCare"
+            },
+            {
+              "availability": true,
+              "name": "Nuxe"
+            },
+            {
+              "availability": true,
+              "name": "MEC"
+            },
+            {
+              "availability": true,
+              "name": "Mavala"
+            },
+            {
+              "availability": true,
+              "name": "Sensai"
+            },
+            {
+              "availability": true,
+              "name": "Tabac"
+            },
+            {
+              "availability": true,
+              "name": "Betty Barclay"
+            },
+            {
+              "availability": true,
+              "name": "4711"
+            },
+            {
+              "availability": true,
+              "name": "Saclà"
+            },
+            {
+              "availability": true,
+              "name": "Aceto Balsamico di Modena del Duca"
+            },
+            {
+              "availability": true,
+              "name": "Limmi"
+            },
+            {
+              "availability": true,
+              "name": "Kikkoman"
+            },
+            {
+              "availability": true,
+              "name": "BIC"
+            },
+            {
+              "availability": true,
+              "name": "UHU"
+            },
+            {
+              "availability": true,
+              "name": "Burde"
+            },
+            {
+              "availability": true,
+              "name": "Ballograf"
+            },
+            {
+              "availability": true,
+              "name": "Foldermate"
+            },
+            {
+              "availability": true,
+              "name": "Omron"
+            },
+            {
+              "availability": true,
+              "name": "Cooper"
+            },
+            {
+              "availability": true,
+              "name": "Free-hyttyskarkote"
+            },
+            {
+              "availability": true,
+              "name": "GreenCare Pro"
+            },
+            {
+              "availability": true,
+              "name": "Teollisuuden Berner"
+            },
+            {
+              "availability": true,
+              "name": "Viljelijän Berner"
+            },
+            {
+              "availability": true,
+              "name": "Kuluttajatuotteet"
+            },
+            {
+              "availability": true,
+              "name": "Terveydenhuolto ja laboratoriot"
+            },
+            {
+              "availability": true,
+              "name": "Maatalous"
+            },
+            {
+              "availability": true,
+              "name": "Teollisuus"
+            },
+            {
+              "availability": true,
+              "name": "Kasvinsuojeluaineita"
+            },
+            {
+              "availability": true,
+              "name": "Lannoitteita"
+            },
+            {
+              "availability": true,
+              "name": "Siemeniä"
+            },
+            {
+              "availability": true,
+              "name": "Viljelytarvikkeita"
+            },
+            {
+              "availability": true,
+              "name": "Raaka- ja lisäaineita"
+            },
+            {
+              "availability": true,
+              "name": "Magnesiumkemikaaleja"
+            },
+            {
+              "availability": true,
+              "name": "Tärkkelyspohjaisia side- ja liima-aineita"
+            },
+            {
+              "availability": true,
+              "name": "Erikoiskemikaaleja"
+            },
+            {
+              "availability": true,
+              "name": "Natiivia perunatärkkelystä"
+            },
+            {
+              "availability": true,
+              "name": "Sustainability",
+              "picture": "https://www.berner.fi/wp-content/uploads/2023/04/kemian_teollisuus_berner_laura_martikainen_01-e1682413615160.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Four business areas",
+              "picture": "https://www.berner.fi/wp-content/uploads/2022/10/hai-pinkki-skeitti_vaaka_4249-1.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Autonhoitotuotteet",
+              "picture": "https://www.berner.fi/wp-content/uploads/2024/05/heinaevesi_78-356x238.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Etanolipohjaisia sairaalatuotteita",
+              "picture": "https://www.berner.fi/wp-content/uploads/2024/05/heinaevesi_78-356x238.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Hiusten- ja ihonhoitotuotteita",
+              "picture": "https://www.berner.fi/wp-content/uploads/2024/05/heinaevesi_78-356x238.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Pesu- ja puhdistusaineita",
+              "picture": "https://www.berner.fi/wp-content/uploads/2024/05/heinaevesi_78-356x238.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Kasvinsuojelutuotteita",
+              "picture": "https://www.berner.fi/wp-content/uploads/2024/05/heinaevesi_78-356x238.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Väkiviinaetikkaa ja viinietikoita",
+              "picture": "https://www.berner.fi/wp-content/uploads/2024/05/heinaevesi_78-356x238.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Luonnonkosmetiikan tuotteet",
+              "picture": "https://www.berner.fi/wp-content/uploads/2024/05/heinaevesi_78-356x238.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Apuvälinehuolto",
+              "picture": "https://www.berner.fi/wp-content/uploads/2024/05/huolto_05-356x237.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Laboratoriolaitteiden huolto",
+              "picture": "https://www.berner.fi/wp-content/uploads/2024/05/huolto_05-356x237.jpg"
+            },
+            {
+              "availability": true,
+              "name": "Consumer goods"
+            },
+            {
+              "availability": true,
+              "name": "Healthcare and laboratories"
+            },
+            {
+              "availability": true,
+              "name": "AGRICULTURAL TRADE"
+            },
+            {
+              "availability": true,
+              "name": "industry"
+            },
+            {
+              "availability": true,
+              "name": "XZ products"
+            },
+            {
+              "availability": true,
+              "name": "LV products"
+            },
+            {
+              "availability": true,
+              "name": "Herbina products"
+            },
+            {
+              "availability": true,
+              "name": "Ainu products"
+            },
+            {
+              "availability": true,
+              "name": "Oxygenol products"
+            },
+            {
+              "availability": true,
+              "name": "Tummeli products"
+            },
+            {
+              "availability": true,
+              "name": "Lasol products"
+            },
+            {
+              "availability": true,
+              "name": "Korrek products"
+            },
+            {
+              "availability": true,
+              "name": "Heti products"
+            },
+            {
+              "availability": true,
+              "name": "Rajamäen product family"
+            }
+          ],
+          "status": "success",
+          "summary_en": "Berner is responsible for a diverse product range through its four business areas: Consumer Products, Healthcare and Laboratories, Industry, and Agriculture. Berner is committed to the continuous development of responsibility and open dialogue with its stakeholders.",
+          "summary_fi": "Berner vastaa monipuolisesta tuotevalikoimastaan neljän liiketoiminta-alueen kautta: Kuluttajatuotteet, Terveydenhuolto ja Laboratoriot, Teollisuus ja Maatalous. Berner on sitoutunut vastuullisuuden jatkuvaan kehittämiseen sekä avoimeen vuoropuheluun sidosryhmiensä kanssa.",
+          "url": "https://berner.fi",
+          "visited_internal_urls": [
+            "https://berner.fi/en/company/business-areas",
+            "https://berner.fi/en/home",
+            "https://berner.fi/brandit-2",
+            "https://berner.fi/tervetuloa-bernerin-urasivuille/ura",
+            "https://berner.fi/en/contacts",
+            "https://berner.fi/tervetuloa-bernerin-urasivuille/berner-tyonantajana",
+            "https://berner.fi/yhteystiedot",
+            "https://berner.fi/tervetuloa-bernerin-urasivuille/ura/asiakaspalvelu-liiketoiminnan-kehitys-ja-tuki",
+            "https://berner.fi/en/company/product-development-and-production-plants",
+            "https://berner.fi/tervetuloa-bernerin-urasivuille/ura/kotimainen-tuotekehitys-ja-tuotanto",
+            "http://www.berner.fi",
+            "https://berner.fi/tervetuloa-bernerin-urasivuille/ura/huoltotehtavat",
+            "https://berner.fi/tervetuloa-bernerin-urasivuille/tyopaikat",
+            "https://berner.fi/berner-oy",
+            "https://berner.fi/berner-oy/liiketoimintaalueet"
+          ]
+        }
+      ],
+      "news": [
+        {
+          "article_summary_en": "Berner Oy has acquired Voda Nordic Oy, a company specializing in water treatment chemicals, to enhance its position as a partner in the industrial, municipal, and cleantech sectors. The acquisition expands Berner's product range for water purification, paper, and mining industries, particularly in chemicals for drinking water and wastewater treatment. Voda Nordic has a turnover of 7.6 million euros in 2024 and operates production facilities in Raahe and Kokkola. The acquisition aligns with Berner's growth strategy and aims to meet stricter water purification requirements.",
+          "article_summary_fi": "Berner Oy on ostanut vesihuollon kemikaaleihin keskittyvän Voda Nordic Oy:n vahvistaakseen asemaansa teollisuuden, kuntien ja cleantech-sektorin kumppanina. Kauppa laajentaa Bernerin tuotevalikoimaa vedenpuhdistus-, paperi- ja kaivosteollisuudelle, erityisesti juomaveden- ja jätevedenpuhdistuskemikaaleissa. Voda Nordicin liikevaihto oli 7,6 miljoonaa euroa vuonna 2024, ja sillä on tuotantolaitokset Raahessa ja Kokkolassa. Yritysosto tukee Bernerin kasvustrategiaa ja pyrkii vastaamaan tiukentuviin vedenpuhdistusvaatimuksiin.",
+          "article_title_en": "Berner Oy Acquires Voda Nordic Oy to Strengthen Water Treatment Offering",
+          "article_title_fi": "Berner Oy ostaa Voda Nordic Oy:n ja vahvistaa tarjontaansa kuntien ja teollisuuden vedenkäsittelyssä",
+          "article_url": "https://www.kauppalehti.fi/lehdistotiedotteet/berner-oy-on-ostanut-voda-nordic-oyn-ja-vahvistaa-tarjontaansa-kuntien-ja-teollisuuden-vedenkasittelyssa/40113900-7f84-5d9b-bf5b-d79aa42f0341",
+          "business_id": "01070115",
+          "company_name": "Berner Oy",
+          "company_summary_en": "Berner Oy acquired Voda Nordic Oy to strengthen its position in water treatment for municipalities and industry.",
+          "company_summary_fi": "Berner Oy osti Voda Nordic Oy:n vahvistaakseen asemaansa kuntien ja teollisuuden vedenkäsittelyssä.",
+          "created_at": "2025-06-30T07:01:40",
+          "finder_id": "119082",
+          "id": "www.kauppalehti.fi-lehdistotiedotteet-berner-oy-on-ostanut-voda-nordic-oyn-ja-vahvistaa-tarjontaansa-kuntien-ja-teollisuuden-vedenkasittelyssa-40113900-7f84-5d9b-bf5b-d79aa42f0341-0",
+          "published_at": "2025-06-30T06:00:00+00:00",
+          "type": "news"
+        },
+        {
+          "article_summary_en": "Berner and OP Financial Group have partnered to create a new financing model that incentivizes sustainable farming practices.  The program offers contract farmers more favorable payment terms for purchasing inputs if they commit to and achieve the goals of Berner's \"Hyvän Maan\" (Good Land) farming program, which focuses on reducing carbon footprint, optimizing input use, and improving soil health and biodiversity.  The program utilizes a digital auditing system for easy implementation and scalability.",
+          "article_summary_fi": "Viljelijän Berner ja OP ovat kehittäneet yhteistyössä uuden rahoitusmallin, joka kannustaa kestävään viljelyyn. Malli tarjoaa Bernerin Hyvän Maan -viljelyohjelmaan sitoutuneille sopimusviljelijöille edullisempaa maksuaikarahoitusta, mikäli he täyttävät ohjelman tavoitteet. Hyvän Maan -ohjelma keskittyy hiilijalanjäljen pienentämiseen, tuotantopanosten tehokkaaseen käyttöön ja maan kasvukunnon sekä biodiversiteetin parantamiseen. Digitaalinen auditointijärjestelmä helpottaa ohjelman käyttöönottoa ja skaalautuvuutta.",
+          "article_title_en": "Berner and OP Launch New Payment Term Financing to Encourage Sustainable Farming",
+          "article_title_fi": "Berner ja OP tuovat markkinoille uuden maksuaikarahoituksen kestävän viljelyn kannustimeksi",
+          "article_url": "https://www.kauppalehti.fi/lehdistotiedotteet/berner-ja-op-tuovat-markkinoille-uuden-maksuaikarahoituksen-kestavan-viljelyn-kannustimeksi/53985997-1220-5774-967e-cf791c20002c",
+          "business_id": "01070115",
+          "company_name": "Berner Oy",
+          "company_summary_en": "Berner Oy is a Finnish family-owned company that developed the \"Hyvän Maan\" sustainable farming program and partnered with OP to offer financing incentives to farmers participating in the program.",
+          "company_summary_fi": "Berner Oy on suomalainen perheyritys, joka kehitti \"Hyvän Maan\" kestävän viljelyn ohjelman ja teki yhteistyötä OP:n kanssa tarjotakseen rahoituskannusteita ohjelmaan osallistuville viljelijöille.",
+          "created_at": "2025-04-23T07:00:43",
+          "finder_id": "119082",
+          "id": "www.kauppalehti.fi-lehdistotiedotteet-berner-ja-op-tuovat-markkinoille-uuden-maksuaikarahoituksen-kestavan-viljelyn-kannustimeksi-53985997-1220-5774-967e-cf791c20002c-0",
+          "published_at": "2025-04-23T06:47:00+00:00",
+          "type": "news"
+        },
+        {
+          "article_summary_en": "The BERNER Group, a European trading company, is implementing xSuite's AI-driven solution to automate incoming invoice processing.  Starting in the Benelux countries, the rollout will continue across other European subsidiaries.  xSuite's SAP-certified solution offers comprehensive e-invoicing capabilities and complies with European legislation.  The BERNER Group expects significant reductions in administrative expenses.",
+          "article_summary_fi": "Eurooppalainen kauppayhtiö BERNER-konserni ottaa käyttöön xSuiten tekoälyyn perustuvan ratkaisun automatisoimaan saapuvien laskujen käsittelyä.  Käyttöönotto alkaa Benelux-maista ja jatkuu muihin Euroopan tytäryhtiöihin.  SAP-sertifioitu xSuiten ratkaisu tarjoaa kattavat sähköisen laskutuksen ominaisuudet ja täyttää eurooppalaisen lainsäädännön vaatimukset.  BERNER-konserni odottaa merkittäviä säästöjä hallinnollisissa kuluissa.",
+          "article_title_en": "BERNER Group Relies on AI-Driven Invoice Automation with xSuite",
+          "article_title_fi": "BERNER-konserni luottaa tekoälyyn perustuvaan laskutusautomaatioon xSuiten avulla",
+          "article_url": "https://www.kauppalehti.fi/lehdistotiedotteet/berner-group-relies-on-ai-driven-invoice-automation-with-xsuite/4d7517ad-8283-57ea-ae40-03c0c81435ae",
+          "business_id": "01070115",
+          "company_name": "BERNER Group",
+          "company_summary_en": "BERNER Group, a European trading company, implemented xSuite's AI-driven invoice automation solution to streamline its incoming invoice processing, starting with its Benelux entities and expanding to other European countries.",
+          "company_summary_fi": "Eurooppalainen kauppayhtiö BERNER Group otti käyttöön xSuiten tekoälyyn perustuvan laskujen automatisointiratkaisun nopeuttamaan saapuvien laskujen käsittelyä. Toteutus alkaa Benelux-maista ja laajenee muihin Euroopan maihin.",
+          "created_at": "2025-03-07T10:01:26",
+          "id": "www.kauppalehti.fi-lehdistotiedotteet-berner-group-relies-on-ai-driven-invoice-automation-with-xsuite-4d7517ad-8283-57ea-ae40-03c0c81435ae-0",
+          "published_at": "2025-03-07T09:00:00+00:00",
+          "type": "news"
+        },
+        {
+          "article_summary_en": "The PAM trade union is threatening a new strike on March 20-21, affecting 41 retail companies and approximately 20,000 employees.  The strike targets include major retailers such as Clas Ohlsson, Ikea, Kärkkäinen, Musti ja Mirri, Normal, and Saiturin Pörssi.  The strike follows the breakdown of negotiations with the Trade Union over employee dismissal protection.",
+          "article_summary_fi": "Palvelualojen ammattiliitto PAM uhkaa 20.–21. maaliskuuta pidettävällä lakolla, joka koskisi 41:tä kaupan alan yritystä ja noin 20 000 työntekijää.  Lakkoon kuuluu useita suuria yrityksiä, kuten Clas Ohlsson, Ikea, Kärkkäinen, Musti ja Mirri, Normal ja Saiturin Pörssi.  Lakko johtuu neuvottelujen päättymisestä Kaupan liiton kanssa työntekijöiden irtisanomissuojan osalta.",
+          "article_title_en": "PAM Threatens New Strike in the Retail Sector - See the List of Targets",
+          "article_title_fi": "PAM uhkaa uudella kaupan alan lakolla – katso lista kohteista",
+          "article_url": "https://www.is.fi/taloussanomat/art-2000011071285.html",
+          "business_id": "01070115",
+          "company_name": "Berner Oy",
+          "company_summary_en": "Berner Oy is included in the list of 41 companies that might face a strike by PAM due to a dispute over employment terms.",
+          "company_summary_fi": "Berner Oy kuuluu 41 yrityksen listalle, joita PAM saattaa uhata lakolla työehtojen kiistan takia.",
+          "created_at": "2025-03-03T16:04:35",
+          "id": "www.is.fi-taloussanomat-art-2000011071285.html-2",
+          "published_at": "2025-03-03T13:11:00+02:00",
+          "type": "news"
+        },
+        {
+          "article_summary_en": "Strikes continue across Finland as the Industrial Union's strike action continues. The union announced a strike on January 17th, affecting 204 workplaces. The strikes, which will last from Monday to Saturday, February 8th, involve selected workplaces in the technology industry, mechanical forest industry, basic chemical industry, plastics industry, and chemical product industry, as well as the oil, gas, and petrochemical sectors. This week, the strikes will affect companies such as ABB, Amcor Flexibles Valkeakoski, Amerplast, BASF Battery Materials Finland, BASF, Berner, Bewi Finland, BEWI RAW, Borealis Polymers, Botnia Marin, Evondos, Exel Composites, Fenix Marin, Finnfoam, Finnsonic, GE Healthcare Finland, Helkama Velox, Hydroline, INEOS Composites Finland, Intermedius, JRS Pharma, Kalmar Finland, Kemira Chemicals, Kera Group, Kesla, Kiilto, Kiiltoclean, Kone Hissit, Kone Industrial, Konecranes Finland, Kraton Chemical, Linde Gas, Lumene, Mantsinen Group, Medisize, Mirka, Molok, Neste, Nextpharma, Normet, Norrhydro, Oilon, Orion, Primo Finland, Patria Aerostructures, Patria Aviation, Patria Land, Patricomp, Posti Warehousing, Prevex, Purso Alucool, Purso, Radiometer Turku, Satatuote, Stera Technologies, Tamnico Finland, Teknos, UPM Plywood, Vaisala, Veolia Services Suomi, Viafin GAS, and Wallac. The Industrial Union is currently negotiating with the employers of the Technology Industry, but no agreement has been reached yet.",
+          "article_summary_fi": "Lakot jatkuvat ympäri Suomea, kun Teollisuusliiton lakkotoimet jatkuvat. Teollisuusliitto julisti 17. tammikuuta lakon 204 toimipaikalle. Lakot, jotka kestävät maanantaista lauantaihin 8. helmikuuta asti, koskevat valikoituja työpaikkoja teknologiateollisuuden, mekaanisen metsäteollisuuden, kemian perus­teollisuuden, muoviteollisuuden ja kemian tuoteteollisuuden sekä öljy-, maakaasu- ja petrokemian sopimusaloilla. Tällä viikolla lakot koskevat seuraavia yrityksiä: ABB, Amcor Flexibles Valkeakoski, Amerplast, BASF Battery Materials Finland, BASF, Berner, Bewi Finland, BEWI RAW, Borealis Polymers, Botnia Marin, Evondos, Exel Composites, Fenix Marin, Finnfoam, Finnsonic, GE Healthcare Finland, Helkama Velox, Hydroline, INEOS Composites Finland, Intermedius, JRS Pharma, Kalmar Finland, Kemira Chemicals, Kera Group, Kesla, Kiilto, Kiiltoclean, Kone Hissit, Kone Industrial, Konecranes Finland, Kraton Chemical, Linde Gas, Lumene, Mantsinen Group, Medisize, Mirka, Molok, Neste, Nextpharma, Normet, Norrhydro, Oilon, Orion, Primo Finland, Patria Aerostructures, Patria Aviation, Patria Land, Patricomp, Posti Warehousing, Prevex, Purso Alucool, Purso, Radiometer Turku, Satatuote, Stera Technologies, Tamnico Finland, Teknos, UPM Plywood, Vaisala, Veolia Services Suomi, Viafin GAS ja Wallac. Teollisuusliitto neuvottelee parhaillaan Teknologiateollisuuden työnantajien kanssa, mutta toistaiseksi neuvotteluissa ei ole päästy sopimukseen.",
+          "article_title_en": "New Strike Week Begins - These Companies Are Affected",
+          "article_title_fi": "Uusi lakkoviikko alkoi – kohteena nämä yritykset",
+          "article_url": "https://www.is.fi/taloussanomat/art-2000011007130.html",
+          "business_id": "01070115",
+          "company_name": "Berner",
+          "company_summary_en": "Berner is one of the companies affected by the ongoing strike by the Industrial Union.",
+          "company_summary_fi": "Berner on yksi yrityksistä, joita Teollisuusliiton lakko vaikuttaa.",
+          "created_at": "2025-02-03T16:05:23",
+          "id": "www.is.fi-taloussanomat-art-2000011007130.html-5",
+          "published_at": "2025-02-03T10:57:00",
+          "type": "news"
+        },
+        {
+          "article_summary_en": "The Berner Group has received approval for its science-based emission reduction targets from the Science Based Targets initiative (SBTi). The targets, which extend to 2030, include separate targets for FLAG emissions related to land use. The SBTi is a global body that helps companies set ambitious emission reduction targets based on the latest climate science. The SBTi targets are a key part of Berner's ongoing development of its climate and environmental work and play a significant role in Berner's Shared Responsibility sustainability program. The Berner Group's targets for 2030 cover the Group's own emissions (scope 1 and 2), value chain emissions (scope 3), and FLAG emissions (forest, land, agriculture, scope 3). FLAG emissions arise from land-use change and land use when the goods or raw materials used by the Berner Group are produced, such as grain, potatoes, and the primary production of imported food. 99% of the Berner Group's total emissions are scope 3 emissions.",
+          "article_summary_fi": "Berner-konserni on saanut hyväksynnän tieteeseen perustuville päästövähennystavoitteilleen SBTi-aloitteelta. Vuoteen 2030 ulottuvat tavoitteet sisältävät erikseen myös maankäyttöön liittyvät FLAG-päästöt. Science Based Targets -aloite (SBTi) on maailmanlaajuinen toimija, joka auttaa yrityksiä asettamaan kunnianhimoisia päästövähennystavoitteita uusimpaan ilmastotieteeseen perustuen. SBTi-tavoitteet ovat keskeinen osa Bernerin ilmasto- ja ympäristötyön jatkuvaa kehitystä, ja merkittävässä roolissa Bernerin Yhteiset vastuumme -vastuullisuusohjelmassa. Neljän liiketoiminta-alueen Berner-konsernin vuoteen 2030 ulottuvat tavoitteet kattavat konsernin omat päästöt (scope 1 ja 2), arvoketjun päästöt (scope 3) ja sekä FLAG-päästöt (forest, land, agriculture, scope 3). FLAG-päästöt syntyvät maankäytön muutoksesta sekä maankäytöstä, kun Berner-konsernin käyttämiä hyödykkeitä tai hyödykkeiden raaka-aineita tuotetaan, esimerkkeinä vilja, peruna ja tuontielintarvikkeiden alkutuotanto. Berner-konsernin kokonaispäästöistä 99 % on scope 3 -päästöjä.",
+          "article_title_en": "Berner Group's Emission Reduction Targets Approved by the Science Based Targets Initiative",
+          "article_title_fi": "Berner-konsernin päästövähennystavoitteille hyväksyntä Science Based Targets -aloitteelta",
+          "article_url": "https://www.kauppalehti.fi/lehdistotiedotteet/berner-konsernin-paastovahennystavoitteille-hyvaksynta-science-based-targets-aloitteelta/26f3e6c3-92c2-53fa-bf96-4e528f176993",
+          "business_id": "01070115",
+          "company_name": "Berner Oy",
+          "company_summary_en": "Berner Oy, a Finnish family-owned company with four business areas, was founded in 1883. The company's headquarters, research and development unit, and production facilities are located in Finland, with subsidiaries in Sweden, Norway, Denmark, and the Baltics. The Berner Group's turnover in 2023 was EUR 705 million, and the company employs approximately 880 people.",
+          "company_summary_fi": "Berner Oy on vuonna 1883 perustettu kasvava ja kansainvälistyvä suomalainen neljän liiketoiminta-alueen perheyritys. Pääkonttorimme, tutkimus- ja kehitysyksikkömme ja tuotantolaitoksemme sijaitsevat Suomessa, tytäryhtiömme Ruotsissa, Norjassa, Tanskassa ja Baltiassa. Berner-konserniin kuuluvat Suomessa Chemigate Oy ja sen tytäryhtiöt Finnamyl Oy ja Lapuan Peruna Oy, Berner Chemicals Oy ja Suomen Medituote Oy. Konsernimme liikevaihto vuonna 2023 oli 705 miljoonaa euroa ja meillä työskentelee noin 880 henkilöä.",
+          "created_at": "2025-01-30T16:03:18",
+          "id": "www.kauppalehti.fi-lehdistotiedotteet-berner-konsernin-paastovahennystavoitteille-hyvaksynta-science-based-targets-aloitteelta-26f3e6c3-92c2-53fa-bf96-4e528f176993-1",
+          "published_at": "2025-01-30T13:37:00",
+          "type": "news"
+        }
+      ],
+      "reports": [
+        {
+          "accountants": [],
+          "accounting_period": {
+            "end_date": "2021-12-31",
+            "start_date": "2021-01-01"
+          },
+          "audtiors": [
+            "Anders Svennas"
+          ],
+          "business_id": "01070115",
+          "company_name": "BERNER OY",
+          "consolidated": true,
+          "contact_details": [
+            {
+              "data": "Anders Svennas",
+              "person_name": "Anders Svennas",
+              "title": "KHT",
+              "type": "person_name"
+            },
+            {
+              "data": "Hannes Berner",
+              "person_name": "Hannes Berner",
+              "title": "Hallituksen puheenjohtaja",
+              "type": "person_name"
+            },
+            {
+              "data": "Nicolas Berner",
+              "person_name": "Nicolas Berner",
+              "title": "Hallituksen jäsen",
+              "type": "person_name"
+            },
+            {
+              "data": "Edvard Björkenheim",
+              "person_name": "Edvard Björkenheim",
+              "title": "Hallituksen jäsen",
+              "type": "person_name"
+            },
+            {
+              "data": "Ove Uljas",
+              "person_name": "Ove Uljas",
+              "title": "Hallituksen jäsen",
+              "type": "person_name"
+            },
+            {
+              "data": "Christina Harmia",
+              "person_name": "Christina Harmia",
+              "title": "Hallituksen jäsen",
+              "type": "person_name"
+            },
+            {
+              "data": "Antti Korpiniemi",
+              "person_name": "Antti Korpiniemi",
+              "title": "Toimitusjohtaja",
+              "type": "person_name"
+            }
+          ],
+          "decision_makers": [
+            {
+              "name": "Hannes Berner",
+              "role_en": "Chairman of the Board",
+              "role_fi": "Hallituksen puheenjohtaja"
+            },
+            {
+              "name": "Nicolas Berner",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Edvard Björkenheim",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Ove Uljas",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Christina Harmia",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Antti Korpiniemi",
+              "role_en": "Managing Director",
+              "role_fi": "Toimitusjohtaja"
+            },
+            {
+              "name": "Anders Svennas",
+              "role_en": "KHT",
+              "role_fi": "KHT"
+            }
+          ],
+          "fixed": 1,
+          "group_numbers": [
+            {
+              "balance": 295515043.48,
+              "bruttoIncome": 0,
+              "ebat": 23163543.01,
+              "equity": 136087080.72,
+              "fiscalYear": "2021",
+              "grossProfit": 0,
+              "investment": 51100000,
+              "loan": 69538129.55,
+              "netIncomes": 23184000,
+              "numberOfEmployees": 604,
+              "operatingMargin": 5.55,
+              "operatingProfit": 18109035.61,
+              "otherIncome": 2737142.14,
+              "periodEnd": "2021-12-31",
+              "periodStart": "2021-01-01",
+              "personnelCosts": 43259272.43,
+              "taxesPaid": 5957237.72,
+              "turnover": 417694534.49
+            },
+            {
+              "balance": 217227553.67,
+              "bruttoIncome": 0,
+              "ebat": 18242400.37,
+              "equity": 148443165.52,
+              "fiscalYear": "2020",
+              "grossProfit": 0,
+              "investment": 14300000,
+              "loan": 11730197.45,
+              "netIncomes": 17597000,
+              "numberOfEmployees": 553,
+              "operatingMargin": 5.41,
+              "operatingProfit": 17140003,
+              "otherIncome": 1518628.58,
+              "periodEnd": "2020-12-31",
+              "periodStart": "2020-01-01",
+              "personnelCosts": 36320155.01,
+              "taxesPaid": 5032599.18,
+              "turnover": 324310085.05
+            }
+          ],
+          "id": "0107011-5_2022-43048U",
+          "name": "2022/43048U",
+          "negative_facts_en": [
+            "In June 2021, the subsidiary BioA Oy was declared bankrupt, and at the end of August, Berner Oy sold its Machinery business."
+          ],
+          "negative_facts_fi": [
+            "Kesäkuussa 2021 tytäryhtiö BioA Oy asetettiin konkurssiin, ja elokuun lopussa Berner Oy myi Koneryhmän liiketoimintansa."
+          ],
+          "numbers": [
+            {
+              "accountsPayable": 18784911.27,
+              "accruedExpenses": 9112854.69,
+              "balance": 165868559.67,
+              "bruttoIncome": 0,
+              "cashAndBankBalances": 36954290.99,
+              "currentAssets": 39836367.23,
+              "currentLiabilities": 57616448.88,
+              "currentRatio": 2.171110951328037,
+              "currentReceivables": 24069143.42,
+              "depreciation": 4176221.84,
+              "ebat": 19663508.34,
+              "ebitda": 6.631649472424229,
+              "ebitdaValue": 14906197.11,
+              "equity": 100633597.59,
+              "financialSecurities": 24231901.5,
+              "fiscalYear": "2020",
+              "grossProfit": 0,
+              "interestExpenses": 537480.18,
+              "investment": 0,
+              "loan": 0,
+              "netIncomes": 10729975.27,
+              "numberOfEmployees": 392,
+              "officePersonnelSizeId": "G",
+              "operatingMargin": 4.8,
+              "operatingProfit": 17140003,
+              "otherIncome": 756776.46,
+              "periodEnd": "2020-12-31",
+              "periodStart": "2020-01-01",
+              "personnelCosts": 27133383.18,
+              "quickRatio": 1.6032571773108595,
+              "shortTermReceivedPrepayments": 4440116.9,
+              "solvency": 0.6233944642170695,
+              "taxesPaid": 2336152.79,
+              "totalLiabilities": 64066962.47,
+              "turnover": 224016821.3,
+              "turnoverClassId": "9"
+            },
+            {
+              "accountsPayable": 21173475.9,
+              "accruedExpenses": 15624699.81,
+              "balance": 212001456.9,
+              "bruttoIncome": 0,
+              "cashAndBankBalances": 18990293.94,
+              "currentAssets": 45594137.04,
+              "currentLiabilities": 54763723.95,
+              "currentRatio": 2.0620755371403114,
+              "currentReceivables": 47442504.5,
+              "depreciation": 4067054.06,
+              "ebat": 20481796.9,
+              "ebitda": 4.212421629316653,
+              "ebitdaValue": 10397710.37,
+              "equity": 88255859.72,
+              "financialSecurities": 900000,
+              "fiscalYear": "2021",
+              "grossProfit": 0,
+              "interestExpenses": 465053.71,
+              "investment": 0,
+              "loan": 61500000,
+              "netIncomes": 6330656.31,
+              "numberOfEmployees": 405,
+              "officePersonnelSizeId": "G",
+              "operatingMargin": 2.6,
+              "operatingProfit": 18109035.61,
+              "otherIncome": 2815946.18,
+              "periodEnd": "2021-12-31",
+              "periodStart": "2021-01-01",
+              "personnelCosts": 27931320.03,
+              "quickRatio": 1.3126357086680975,
+              "returnOnInvestment": 4.042899344092547,
+              "shortTermReceivedPrepayments": 3467848.03,
+              "solvency": 0.4232212744901891,
+              "taxesPaid": 2429401.28,
+              "totalLiabilities": 67813685.3,
+              "turnover": 244018565.77,
+              "turnoverClassId": "9"
+            }
+          ],
+          "positive_facts_en": [
+            "Berner Group carried out six business acquisitions during 2021.",
+            "Berner Oy has transferred its investment business to Berfin Oy by partial demerger at the end of February 2021.",
+            "Berner Oy acquired part of the business of Mylen's Kauppa Oy on February 1, 2022.",
+            "Products are now manufactured with 99.9 - 100% renewable energy at the Heinävesi factories.",
+            "In the transports between Heinävesi and Viinikkala, Neste MY renewable diesel was adopted from 1.7.2021, thanks to which the total emissions of the route will be reduced by 90%.",
+            "The company joined the Science Based Targets climate initiative at the end of 2021, according to which it will set emission reduction targets in line with the Paris Climate Agreement for its own operations and value chain."
+          ],
+          "positive_facts_fi": [
+            "Berner Group toteutti kuusi yritysostoa vuoden 2021 aikana.",
+            "Berner Oy on siirtänyt sijoitustoimintansa Berfin Oy:lle osittaisjakautumisella helmikuun 2021 lopussa.",
+            "Berner Oy osti osan Mylen's Kauppa Oy:n liiketoiminnasta 1. helmikuuta 2022.",
+            "Tuotteet valmistetaan nyt 99,9–100-prosenttisesti uusiutuvalla energialla Heinäveden tehtailla.",
+            "Heinäveden ja Viinikkalan välisissä kuljetuksissa otettiin 1.7.2021 alkaen käyttöön Neste MY uusiutuva diesel, jonka ansiosta reitin kokonaispäästöt vähenevät 90 %.",
+            "Yhtiö liittyi Science Based Targets -ilmastoaloitteeseen vuoden 2021 lopussa, jonka mukaan se asettaa Pariisin ilmastosopimuksen mukaiset päästövähennystavoitteet omalle toiminnalleen ja arvoketjulleen."
+          ],
+          "prh": {
+            "acceptance_date": "2022-06-16",
+            "arrival_date": "2022-06-06"
+          },
+          "report_date": "2022-03-22",
+          "shareholders": [],
+          "source_path": "gs://finder-ai-prh/reports/2021-12-31/0107011-5_2022-43048U.pdf",
+          "status": "ok",
+          "subsidiaries": [
+            {
+              "business_id": "",
+              "company_name": "Berner Chemicals Oy",
+              "ownership_percentage": 80,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Bröderna Berner AB",
+              "ownership_percentage": 100,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Berner Eesti OÜ",
+              "ownership_percentage": 100,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Berner Lietuva UAB",
+              "ownership_percentage": 100,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Berner Latvia SIA",
+              "ownership_percentage": 100,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Ordior Eesti Oü",
+              "ownership_percentage": 100,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Søren Berner AS",
+              "ownership_percentage": 100,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Suomen Medituote Oy",
+              "ownership_percentage": 90,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "BioA Oy",
+              "ownership_percentage": 80.47,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Dolema AB",
+              "ownership_percentage": 100,
+              "parent": "Bröderna Berner AB"
+            },
+            {
+              "business_id": "",
+              "company_name": "BI Tank Oy",
+              "ownership_percentage": 100,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Belor Agro Oy",
+              "ownership_percentage": 100,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Chemigate Oy",
+              "ownership_percentage": 84.34,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Naviter Oy",
+              "ownership_percentage": 100,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "CompAid Group Oy",
+              "ownership_percentage": 100,
+              "parent": "Berner Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Haltija Group Oy",
+              "ownership_percentage": 100,
+              "parent": "CompAid Group Oy"
+            },
+            {
+              "business_id": "",
+              "company_name": "Alfaplast Oy",
+              "ownership_percentage": 33.33,
+              "parent": "Berner Oy"
+            }
+          ],
+          "tokens": 45410,
+          "ts": "2025-09-22T00:30:31.250928",
+          "v": "0.2.19",
+          "year": "2022"
+        },
+        {
+          "accountants": [],
+          "accounting_period": {
+            "end_date": "2023-12-31",
+            "start_date": "2023-01-01"
+          },
+          "audtiors": [
+            "Anders Svennas Ernst & Young Oy:stä."
+          ],
+          "business_id": "01070115",
+          "company_name": "Berner Oy",
+          "consolidated": false,
+          "contact_details": [],
+          "decision_makers": [
+            {
+              "name": "Hannes Berner",
+              "role_en": "Chairman of the Board",
+              "role_fi": "Hallituksen puheenjohtaja"
+            },
+            {
+              "name": "Nicolas Berner",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Edvard Björkenheim",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Ove Uljas",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Christina Harmia",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Antti Korpiniemi",
+              "role_en": "CEO",
+              "role_fi": "Toimitusjohtaja"
+            },
+            {
+              "name": "Anders Svennas",
+              "role_en": "Authorized Public Accountant",
+              "role_fi": "KHT"
+            }
+          ],
+          "id": "0107011-5_2024-36452V",
+          "name": "2024/36452V",
+          "negative_facts_en": [],
+          "negative_facts_fi": [],
+          "numbers": [
+            {
+              "accountsPayable": 44708997.16,
+              "accruedExpenses": 17295665.98,
+              "balance": 270873723.49,
+              "bruttoIncome": 0,
+              "cashAndBankBalances": 359992.29,
+              "currentAssets": 109670096.8,
+              "currentLiabilities": 83292203.17,
+              "currentRatio": 2.049979201312559,
+              "currentReceivables": 59834159.68,
+              "depreciation": 5355957.44,
+              "ebat": 21667740.34,
+              "ebitda": 3.6182802626903094,
+              "ebitdaValue": 13788559.190000001,
+              "equity": 99824863.96,
+              "financialSecurities": 883035.36,
+              "fiscalYear": "2022",
+              "grossProfit": 0,
+              "interestExpenses": 2138744.46,
+              "investment": 0,
+              "loan": 79000000,
+              "netIncomes": 8432601.75,
+              "numberOfEmployees": 439,
+              "officePersonnelSizeId": "G",
+              "operatingMargin": 0,
+              "operatingProfit": 18655964.24,
+              "otherIncome": 1912703.35,
+              "periodEnd": "2022-12-31",
+              "periodStart": "2022-01-01",
+              "personnelCosts": 31494156.23,
+              "quickRatio": 0.7758235620096905,
+              "shortTermReceivedPrepayments": 4566587.81,
+              "solvency": 0.37484862621162185,
+              "taxesPaid": 1547652.12,
+              "totalLiabilities": 156879255.32,
+              "turnover": 379167759.99,
+              "turnoverClassId": "9"
+            },
+            {
+              "accountsPayable": 29641357.26,
+              "accruedExpenses": 14428677.14,
+              "balance": 270525833.49,
+              "bruttoIncome": 0,
+              "cashAndBankBalances": 27923951.27,
+              "currentAssets": 79873147,
+              "currentLiabilities": 80961166.77,
+              "currentRatio": 2.1583183467008724,
+              "currentReceivables": 66042873.34,
+              "depreciation": 7524367.02,
+              "ebat": 21633159.47,
+              "ebitda": 2.921156177553611,
+              "ebitdaValue": 12192785.739999998,
+              "equity": 108705601.36,
+              "financialSecurities": 900000,
+              "fiscalYear": "2023",
+              "grossProfit": 0,
+              "interestExpenses": 7720621.74,
+              "investment": 0,
+              "loan": 74000000,
+              "netIncomes": 4668418.72,
+              "numberOfEmployees": 560,
+              "officePersonnelSizeId": "H",
+              "operatingMargin": 0,
+              "operatingProfit": 16940417.4,
+              "otherIncome": 1342298.18,
+              "periodEnd": "2023-12-31",
+              "periodStart": "2023-01-01",
+              "personnelCosts": 38421025.71,
+              "quickRatio": 1.2608593935269061,
+              "returnOnInvestment": 2.144797669494654,
+              "shortTermReceivedPrepayments": 5721354.07,
+              "solvency": 0.41051269826740605,
+              "taxesPaid": 453183.24,
+              "totalLiabilities": 155824225.6,
+              "turnover": 416053588.89,
+              "turnoverClassId": "9"
+            }
+          ],
+          "positive_facts_en": [
+            "During 2023, Berner Oy's subsidiary Chemigate Oy increased its ownership in Finnamyl Oy to 82.63%.",
+            "The company is committed to reducing its emissions in accordance with the Science Based Targets (SBTi) climate initiative.",
+            "The company has developed an SBTi-compliant emission calculation model and calculated preliminary emissions from 2021 onwards in the parent company and all subsidiaries.",
+            "Emission reduction targets also include FLAG emissions (forest, land and agriculture).",
+            "The company also started a pilot project at the end of the year to investigate its impacts and dependencies on biodiversity.",
+            "86% (kg) of plastic packaging from the Heinävesi factories was recyclable last year."
+          ],
+          "positive_facts_fi": [
+            "Vuoden 2023 aikana Berner Oy:n tytäryhtiö Chemigate Oy kasvatti omistusosuuttaan Finnamyl Oy:ssä 82,63 prosenttiin.",
+            "Yhtiö on sitoutunut vähentämään päästöjään Science Based Targets (SBTi) -ilmastoaloitteen mukaisesti.",
+            "Yhtiö on kehittänyt SBTi:n mukaisen päästölaskentamallin ja laskenut alustavat päästöt vuodesta 2021 lähtien emoyhtiössä ja kaikissa tytäryhtiöissä.",
+            "Päästövähennystavoitteet sisältävät myös FLAG-päästöt (metsät, maa ja maatalous).",
+            "Yhtiö aloitti myös vuoden lopussa pilottihankkeen tutkiakseen sen vaikutuksia ja riippuvuuksia luonnon monimuotoisuuteen.",
+            "Heinäveden tehtaiden muovipakkauksista 86 % (kg) oli kierrätettäviä viime vuonna."
+          ],
+          "prh": {
+            "acceptance_date": "2024-05-15",
+            "arrival_date": "2024-04-29"
+          },
+          "report_date": "2024-03-19",
+          "shareholders": [],
+          "source_path": "gs://finder-ai-prh/reports/2023-12-31/0107011-5_2024-36452V.pdf",
+          "status": "ok",
+          "tokens": 20092,
+          "ts": "2025-09-22T00:35:54.369571",
+          "v": "0.2.19",
+          "year": "2024"
+        },
+        {
+          "accountants": [],
+          "accounting_period": {
+            "end_date": "2023-12-31",
+            "start_date": "2023-01-01"
+          },
+          "audtiors": [
+            "Anders Svennaksen"
+          ],
+          "business_id": "01070115",
+          "company_name": "BERNER OY",
+          "consolidated": true,
+          "contact_details": [],
+          "decision_makers": [
+            {
+              "name": "Hannes Berner",
+              "role_en": "Chairman of the meeting",
+              "role_fi": "Kokouksen puheenjohtaja"
+            },
+            {
+              "name": "Nicolas Berner",
+              "role_en": "Secretary of the meeting",
+              "role_fi": "Kokouksen sihteeri"
+            },
+            {
+              "name": "Linda Berner-Strandman",
+              "role_en": "Inspector of the minutes",
+              "role_fi": "Pöytäkirjan tarkastaja"
+            },
+            {
+              "name": "Daniela Berner-Ax",
+              "role_en": "Inspector of the minutes",
+              "role_fi": "Pöytäkirjan tarkastaja"
+            },
+            {
+              "name": "Nicolas Berner",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Edvard Björkenheim",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Ove Uljas",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Christina Harmia",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Benjamin Berner",
+              "role_en": "Member of the Board",
+              "role_fi": "Hallituksen jäsen"
+            },
+            {
+              "name": "Sabina Nilsson",
+              "role_en": "Observer member of the Board",
+              "role_fi": "Hallituksen tarkkailijajäsen"
+            },
+            {
+              "name": "Maria Berner-Holmström",
+              "role_en": "Observer member of the Board",
+              "role_fi": "Hallituksen tarkkailijajäsen"
+            }
+          ],
+          "group_numbers": [
+            {
+              "balance": 0,
+              "bruttoIncome": 0,
+              "ebat": 0,
+              "equity": 0,
+              "fiscalYear": "2023",
+              "grossProfit": 0,
+              "investment": 0,
+              "loan": 0,
+              "netIncomes": 0,
+              "numberOfEmployees": 0,
+              "operatingMargin": 0,
+              "operatingProfit": 0,
+              "otherIncome": 0,
+              "periodEnd": "2023-12-31",
+              "periodStart": "2023-01-01",
+              "personnelCosts": 0,
+              "taxesPaid": 0,
+              "turnover": 0
+            }
+          ],
+          "id": "0107011-5_2024-52812W",
+          "name": "2024/52812W",
+          "negative_facts_en": [],
+          "negative_facts_fi": [],
+          "numbers": [],
+          "positive_facts_en": [
+            "The Board of Directors is authorized to decide on the payment date of the second installment (550 e/share) in December 2024.",
+            "The company may use a maximum of 50,000 euros for donations or other public benefit purposes during 2024, according to a separate decision by the Board of Directors.",
+            "The company has compensated the board members for reasonable travel expenses to meetings.",
+            "No fees have been paid to the observer members of the Board.",
+            "The Board of Directors has proposed the distribution of a dividend of EUR 1,100 per share.",
+            "The Board of Directors has proposed that the dividend be paid in two installments."
+          ],
+          "positive_facts_fi": [
+            "Hallitus on valtuutettu päättämään toisen osamaksun (550 e/osake) maksupäivästä joulukuussa 2024.",
+            "Yhtiö voi käyttää enintään 50 000 euroa lahjoituksiin tai muihin yleishyödyllisiin tarkoituksiin vuoden 2024 aikana hallituksen erillisen päätöksen mukaisesti.",
+            "Yhtiö on korvannut hallituksen jäsenille kohtuulliset matkakulut kokouksiin.",
+            "Hallituksen tarkkailijajäsenille ei ole maksettu palkkioita.",
+            "Hallitus on ehdottanut 1 100 euron osakekohtaisen osingon jakamista.",
+            "Hallitus on ehdottanut, että osinko maksetaan kahdessa erässä."
+          ],
+          "prh": {
+            "acceptance_date": "2024-07-24",
+            "arrival_date": "2024-07-12"
+          },
+          "report_date": "2024-07-12",
+          "shareholders": [],
+          "source_path": "gs://finder-ai-prh/reports/2023-12-31/0107011-5_2024-52812W.pdf",
+          "status": "ok",
+          "subsidiaries": [],
+          "tokens": 11741,
+          "ts": "2025-09-22T00:35:29.385885",
+          "v": "0.2.19",
+          "year": "2024"
+        }
+      ]
+    },
+    "brands": [
+      "s oliver",
+      "beconfident",
+      "hejpure",
+      "foldermate",
+      "Natuk",
+      "BiC",
+      "UHU",
+      "mec",
+      "Gosh",
+      "Route66",
+      "Pure=Beuty",
+      "Atopik",
+      "M2 Beuté",
+      "unna nordic",
+      "BTB13",
+      "By Raili",
+      "Bea Pro",
+      "Murumuru",
+      "EKOPHARMA",
+      "Hai",
+      "Nokian Jalkine",
+      "Ainu",
+      "Provisor",
+      "HETI",
+      "XZ",
+      "LV",
+      "Herbina",
+      "Oxygenol",
+      "GreenCare",
+      "Mavala",
+      "Tabac",
+      "4711 Kölnisch Wasser",
+      "Tummeli",
+      "Rajamäen",
+      "Saclà",
+      "Aceto Balsa­mico del Duca di Adriano Grosoli",
+      "Limmi",
+      "Kikkoman",
+      "Lanfrancii",
+      "Omron",
+      "Lasol",
+      "Korrek",
+      "Cooper",
+      "Free",
+      "Uriage"
+    ],
+    "businessDescriptionContents": [
+      "Berner Oy on vuonna 1883 perustettu suomalainen perheyhtiö, jonka toiminta on kansainvälistä. Berner on myynnin ja markkinoinnin erikoisosaaja, joka toimii usealla eri alalla. Yrityksen pääkonttori, tuotekehitys ja tuotantolaitokset sijaitsevat Suomessa. Baltiassa ja Ruotsissa asiakkaita palvelevat tytäryhtiöt. Berner Oy pyrkii kasvamaan vakaasti toimimalla Suomessa ja lähialueilla. Vahvuutemme on monialaisuus. Tarjoamme tuotteita ja palveluita yrityksille, julkisille sektorille ja kuluttajille. Kattavaan ja laadukkaaseen tuotevalikoimaamme kuuluu kansainvälisiä ja kotimaisia huippubrändejä sekä oman tuotekehityksen ja valmistuksen tuotteita. Berner Oy on ollut rakentamassa hyvää suomalaista arkea yli 140 vuotta."
+    ],
+    "businessDescriptionTitle": "Berner - Huomisen puolustaja",
+    "businessId": "01070115",
+    "businessStatusId": "A",
+    "cityName": "Helsinki",
+    "clickedContact": "020 79100",
+    "company": {
+      "address": {
+        "postOffice": "HELSINKI",
+        "postalCode": "00810",
+        "streetAddress": "Hitsaajankatu 24"
+      },
+      "id": "119082",
+      "name": "Berner Oy",
+      "officialName": "Berner Oy"
+    },
+    "companyForm": "Osakeyhtiö",
+    "companyFormFull": "Osakeyhtiö",
+    "companyOfficialName": "Berner Oy",
+    "companyUrl": "http://www.berner.fi",
+    "concernTeaserAmount": 6,
+    "contactForm": false,
+    "contactType": "COMPANY",
+    "coordinates": {
+      "lat": 60.1927917,
+      "lon": 25.0348018
+    },
+    "coverPictureUrl": "https://ucarecdn.com/056f7ffd-2d0a-48dd-b025-1fb127bb8a41/-/preview/1600x400/",
+    "customerType": "NONE",
+    "decisionPersons": [
+      {
+        "decisionPersonId": "8ffbbeb1e647567d0e4f6a5fd8c5e7fe",
+        "firstName": "Antti Matti",
+        "hasOtherPhones": false,
+        "lastName": "Korpiniemi",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 8,
+        "personRegDate": "2014-08-20",
+        "phone": "050 551 ●●●●",
+        "positionId": "TJ",
+        "positionText": "Toimitusjohtaja",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "0b31c7051e0db34c3dd39d1d334972cb",
+        "firstName": "Nicolas Rolf",
+        "hasOtherPhones": false,
+        "lastName": "Berner",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 5,
+        "personRegDate": "2025-05-13",
+        "phone": "",
+        "positionId": "PJ",
+        "positionText": "Hallituksen puheenjohtaja",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "c5435d8014ac8498fe7a5aa23f7e7999",
+        "firstName": "Benjamin Alexander",
+        "hasOtherPhones": false,
+        "lastName": "Berner",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "personRegDate": "2025-05-13",
+        "phone": "",
+        "positionId": "J",
+        "positionText": "Hallituksen jäsen",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "6d33cbda6723b28a2668ed87ea6554bd",
+        "firstName": "Anna Christina",
+        "hasOtherPhones": false,
+        "lastName": "Harmia",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 1,
+        "personRegDate": "2025-05-13",
+        "phone": "",
+        "positionId": "J",
+        "positionText": "Hallituksen jäsen",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "482617363eae934857903c8426395082",
+        "firstName": "Harri-Pekka Antero",
+        "hasOtherPhones": false,
+        "lastName": "Kaukonen",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 6,
+        "personRegDate": "2025-05-13",
+        "phone": "",
+        "positionId": "J",
+        "positionText": "Hallituksen jäsen",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "7b1ec1c0d18aa5342ee55e5ddb9d04f5",
+        "firstName": "Ove Lennart",
+        "hasOtherPhones": false,
+        "lastName": "Uljas",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 12,
+        "personRegDate": "2025-05-13",
+        "phone": "",
+        "positionId": "J",
+        "positionText": "Hallituksen jäsen",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "f125271c7d7d5a16117a16ef5f41faa8",
+        "firstName": "Kalle Otto Einari",
+        "hasOtherPhones": false,
+        "lastName": "Erkkola",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 2,
+        "personRegDate": "2025-07-16",
+        "phone": "",
+        "positionId": "PR",
+        "positionText": "Prokuristi",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "74492940890b0f6c110c627bf8690e3a",
+        "firstName": "Rauni Marketta",
+        "hasOtherPhones": false,
+        "lastName": "Niemi",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "personRegDate": "2025-07-16",
+        "phone": "",
+        "positionId": "PR",
+        "positionText": "Prokuristi",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "ca795932e5b3522dc078a723a9a76e22",
+        "firstName": "Annastiina",
+        "hasOtherPhones": false,
+        "lastName": "Palmroth-Holst",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 2,
+        "personRegDate": "2025-07-16",
+        "phone": "",
+        "positionId": "PR",
+        "positionText": "Prokuristi",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "2aa1aae777f3dee6e211b69581b771da",
+        "firstName": "Mika Petri Tapio",
+        "hasOtherPhones": false,
+        "lastName": "Pirhonen",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 5,
+        "personRegDate": "2025-07-16",
+        "phone": "",
+        "positionId": "PR",
+        "positionText": "Prokuristi",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "997d9251c366cbc75aba7f2e6abbfb40",
+        "firstName": "Jari Matti Juhani",
+        "hasOtherPhones": false,
+        "lastName": "Puustinen",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 1,
+        "personRegDate": "2025-07-16",
+        "phone": "",
+        "positionId": "PR",
+        "positionText": "Prokuristi",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "8731d8486429e8497307491116810b77",
+        "firstName": "Juha Petteri",
+        "hasOtherPhones": false,
+        "lastName": "Starck",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "personRegDate": "2025-07-16",
+        "phone": "",
+        "positionId": "PR",
+        "positionText": "Prokuristi",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "1cc1a9f8d8ede0694fcbd9e5019c03dc",
+        "firstName": "Petri Juhani",
+        "hasOtherPhones": false,
+        "lastName": "Tervonen",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 2,
+        "personRegDate": "2025-07-16",
+        "phone": "",
+        "positionId": "PR",
+        "positionText": "Prokuristi",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "585e9aa9bea507c847ebd2fa51e21e2e",
+        "firstName": "Tomi Olavi",
+        "hasOtherPhones": false,
+        "lastName": "Virtanen",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "personRegDate": "2025-07-16",
+        "phone": "",
+        "positionId": "PR",
+        "positionText": "Prokuristi",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "1b7cbfba334e7d3265fdfe93fee4ed34",
+        "firstName": "Anders Johan",
+        "hasOtherPhones": false,
+        "lastName": "Svennas",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 215,
+        "personRegDate": "2018-05-30",
+        "phone": "",
+        "positionId": "PTI",
+        "positionText": "Päävastuullinen tilintarkastaja",
+        "source": "PRH_NATURAL"
+      },
+      {
+        "decisionPersonId": "1a78fe523a316cc6bffc830ce323d651",
+        "firstName": "Ernst & Young Oy",
+        "hasOtherPhones": false,
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 6143,
+        "phone": "",
+        "positionId": "T",
+        "positionText": "Tilintarkastaja",
+        "source": "PRH_JURISTIC"
+      },
+      {
+        "decisionPersonId": "ec317396cf183bef0de163f3ad8baa8a",
+        "firstName": "Kari",
+        "hasOtherPhones": false,
+        "lastName": "Erkkilä",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "phone": "050 095 ●●●●",
+        "positionId": "2032",
+        "positionText": "aluepäällikkö",
+        "source": "BMASTER"
+      },
+      {
+        "decisionPersonId": "73bc707ace0c87cd0e4094f0feeb6cbb",
+        "firstName": "Kalle",
+        "hasOtherPhones": false,
+        "lastName": "Erkkola",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "phone": "050 341 ●●●●",
+        "positionId": "2141",
+        "positionText": "liiketoimintajohtaja",
+        "source": "BMASTER"
+      },
+      {
+        "decisionPersonId": "b7404d34ac95345392178b9b64a870e6",
+        "firstName": "Maarit",
+        "hasOtherPhones": false,
+        "lastName": "Lepén",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "phone": "040 539 ●●●●",
+        "positionId": "2941",
+        "positionText": "myynti- ja viestintäjohtaja",
+        "source": "BMASTER"
+      },
+      {
+        "decisionPersonId": "064a517a55a5f3e04cb2ab6a856bb4e1",
+        "firstName": "Annastiina",
+        "hasOtherPhones": false,
+        "lastName": "Palmroth-Holst",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "phone": "040 502 ●●●●",
+        "positionId": "2141",
+        "positionText": "liiketoimintajohtaja",
+        "source": "BMASTER"
+      },
+      {
+        "decisionPersonId": "4caf7d08dd02f31664d52ead6c6b353d",
+        "firstName": "Jussi",
+        "hasOtherPhones": false,
+        "lastName": "Peltonen",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "phone": "040 776 ●●●●",
+        "positionId": "2632",
+        "positionText": "tuotepäällikkö",
+        "source": "BMASTER"
+      },
+      {
+        "decisionPersonId": "7d38385e5873a67ee0d8d3d60c4cb0cd",
+        "firstName": "Mika",
+        "hasOtherPhones": false,
+        "lastName": "Pirhonen",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "phone": "040 831 ●●●●",
+        "positionId": "2141",
+        "positionText": "liiketoimintajohtaja",
+        "source": "BMASTER"
+      },
+      {
+        "decisionPersonId": "db5cf7230e17aaf09bf1b140fdb8ebc9",
+        "firstName": "Juha",
+        "hasOtherPhones": false,
+        "lastName": "Starck",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "phone": "050 522 ●●●●",
+        "positionId": "2811",
+        "positionText": "toimitusketjujohtaja",
+        "source": "BMASTER"
+      },
+      {
+        "decisionPersonId": "55b3b9250b1e06a87b8088e7b33d798b",
+        "firstName": "Petri",
+        "hasOtherPhones": false,
+        "lastName": "Tervonen",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "phone": "050 547 ●●●●",
+        "positionId": "2141",
+        "positionText": "liiketoimintajohtaja",
+        "source": "BMASTER"
+      },
+      {
+        "decisionPersonId": "c963bab79a36263d7bf99bec70d0dda5",
+        "firstName": "Tomi",
+        "hasOtherPhones": false,
+        "lastName": "Virtanen",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "phone": "043 824 ●●●●",
+        "positionId": "2231",
+        "positionText": "talous- ja tietohallintojohtaja",
+        "source": "BMASTER"
+      },
+      {
+        "decisionPersonId": "85376351d86b4854aaf3f502b80377bc",
+        "firstName": "Sanni",
+        "hasOtherPhones": false,
+        "lastName": "Väinölä",
+        "mbsId": "119082",
+        "officeId": "119082",
+        "otherRolesCount": 0,
+        "phone": "050 501 ●●●●",
+        "positionId": "2932",
+        "positionText": "brändipäällikkö",
+        "source": "BMASTER"
+      }
+    ],
+    "distinctiveSearchResult": false,
+    "email": "info@berner.fi",
+    "facebookUrl": "http://facebook.com/BernerOy/",
+    "financials": [
+      {
+        "balance": "",
+        "companyForm": "Osakeyhtiö",
+        "currentRatio": "",
+        "ebitda": "4.40",
+        "equity": "",
+        "exportsBusiness": true,
+        "fiscalYear": "2024",
+        "fiscalYearWithMonth": "202412",
+        "importsBusiness": true,
+        "netIncomes": "9087",
+        "numberOfEmployees": "555",
+        "officePersonnelSizeId": "H",
+        "operatingMargin": "2.30",
+        "operatingProfit": "17514",
+        "quickRatio": "",
+        "returnOnInvestment": "",
+        "solvency": "",
+        "turnover": "393154",
+        "turnoverClassId": "10",
+        "turnoverPerEmployee": "708",
+        "turnoverPercentageChange": "-5.50"
+      },
+      {
+        "balance": "",
+        "companyForm": "Osakeyhtiö",
+        "currentRatio": "",
+        "ebitda": "2.90",
+        "equity": "",
+        "exportsBusiness": true,
+        "fiscalYear": "2023",
+        "fiscalYearWithMonth": "202312",
+        "importsBusiness": true,
+        "netIncomes": "4668",
+        "numberOfEmployees": "560",
+        "officePersonnelSizeId": "H",
+        "operatingMargin": "1.10",
+        "operatingProfit": "16940",
+        "quickRatio": "",
+        "returnOnInvestment": "",
+        "solvency": "",
+        "turnover": "416054",
+        "turnoverClassId": "10",
+        "turnoverPerEmployee": "743",
+        "turnoverPercentageChange": "9.70"
+      },
+      {
+        "balance": "",
+        "companyForm": "Osakeyhtiö",
+        "currentRatio": "",
+        "ebitda": "3.60",
+        "equity": "",
+        "exportsBusiness": true,
+        "fiscalYear": "2022",
+        "fiscalYearWithMonth": "202212",
+        "importsBusiness": true,
+        "netIncomes": "8433",
+        "numberOfEmployees": "439",
+        "officePersonnelSizeId": "H",
+        "operatingMargin": "2.20",
+        "operatingProfit": "18656",
+        "quickRatio": "",
+        "returnOnInvestment": "",
+        "solvency": "",
+        "turnover": "379168",
+        "turnoverClassId": "10",
+        "turnoverPerEmployee": "864",
+        "turnoverPercentageChange": "55.40"
+      },
+      {
+        "balance": "",
+        "companyForm": "Osakeyhtiö",
+        "currentRatio": "",
+        "ebitda": "4.20",
+        "equity": "",
+        "exportsBusiness": true,
+        "fiscalYear": "2021",
+        "fiscalYearWithMonth": "202112",
+        "importsBusiness": true,
+        "netIncomes": "6331",
+        "numberOfEmployees": "405",
+        "officePersonnelSizeId": "H",
+        "operatingMargin": "2.60",
+        "operatingProfit": "18109",
+        "quickRatio": "",
+        "returnOnInvestment": "",
+        "solvency": "",
+        "turnover": "244019",
+        "turnoverClassId": "10",
+        "turnoverPerEmployee": "603",
+        "turnoverPercentageChange": "8.90"
+      },
+      {
+        "balance": "",
+        "companyForm": "Osakeyhtiö",
+        "currentRatio": "",
+        "ebitda": "6.60",
+        "equity": "",
+        "exportsBusiness": true,
+        "fiscalYear": "2020",
+        "fiscalYearWithMonth": "202012",
+        "importsBusiness": true,
+        "netIncomes": "10730",
+        "numberOfEmployees": "392",
+        "officePersonnelSizeId": "H",
+        "operatingMargin": "4.80",
+        "operatingProfit": "17140",
+        "quickRatio": "",
+        "returnOnInvestment": "",
+        "solvency": "",
+        "turnover": "224017",
+        "turnoverClassId": "10",
+        "turnoverPerEmployee": "571",
+        "turnoverPercentageChange": "2.20"
+      }
+    ],
+    "finderIpUser": false,
+    "flags": "",
+    "hakusana": null,
+    "hasAddress": true,
+    "hasCompanyUrl": true,
+    "hasOperatorName": false,
+    "hasOwnerName": false,
+    "hasPaidPackage": true,
+    "hasVisibility": true,
+    "homeCity": "Helsinki",
+    "id": "119082",
+    "instagramUrl": "https://www.instagram.com/berneroy1883/",
+    "lineofBusinessNames": [
+      "Agentuuriliike",
+      "Kemikaalien agentuuriliike",
+      "Elintarvikkeiden agentuuriliike"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/company/berner",
+    "logoUrl": "https://ucarecdn.com/6faf2bc0-da99-4c4a-9e42-c36d1003987d/-/preview/500x500/",
+    "mainLineOfBusinessName": "Agentuuriliike",
+    "mainSuperCategoryName": "Agentuuriliike",
+    "mbsid": "119082",
+    "mobile": "020 79100",
+    "name": "Berner Oy",
+    "office": {
+      "id": "119082",
+      "name": "Berner Oy"
+    },
+    "officePersonnelSizeId": "H",
+    "offices": [
+      {
+        "address": {
+          "postOffice": "HEINÄVESI",
+          "postalCode": "79700",
+          "streetAddress": "Yrittäjätie 5"
+        },
+        "addressLanguageId": "FI",
+        "advertiser": true,
+        "appliedBanRules": [],
+        "city": [
+          {
+            "languageId": "FI",
+            "value": "Heinävesi"
+          }
+        ],
+        "cityName": "Heinävesi",
+        "contactType": "OFFICE",
+        "contractValue": 151,
+        "customerType": "NONE",
+        "distinctiveSearchResult": false,
+        "financials": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "hasTiliAddress": false,
+        "homeCity": "Helsinki",
+        "id": "136316",
+        "mainLineOfBusinessName": "Pakkauspalvelu",
+        "name": "Berner Heinäveden tehdas H1",
+        "operationAreas": {
+          "citiesFi": [
+            "Heinävesi"
+          ]
+        },
+        "postOffice": "HEINÄVESI",
+        "postOfficeSv": "HEINÄVESI",
+        "postalCode": "79700",
+        "relevanceBoost": 151,
+        "streetAddress": "Yrittäjätie 5",
+        "tolMainLineofBusinessName": "Yleistukkukauppa",
+        "wwwAddressInSearchResult": false
+      },
+      {
+        "address": {
+          "postOffice": "HEINÄVESI",
+          "postalCode": "79700",
+          "streetAddress": "Karpalotie 6"
+        },
+        "addressLanguageId": "FI",
+        "advertiser": true,
+        "appliedBanRules": [],
+        "city": [
+          {
+            "languageId": "FI",
+            "value": "Heinävesi"
+          }
+        ],
+        "cityName": "Heinävesi",
+        "contactType": "OFFICE",
+        "contractValue": 151,
+        "customerType": "NONE",
+        "distinctiveSearchResult": false,
+        "financials": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "hasTiliAddress": false,
+        "homeCity": "Helsinki",
+        "id": "3109145",
+        "mainLineOfBusinessName": "Pakkauspalvelu",
+        "name": "Berner Heinäveden tehdas H2 ja H3",
+        "operationAreas": {
+          "citiesFi": [
+            "Heinävesi"
+          ]
+        },
+        "postOffice": "HEINÄVESI",
+        "postOfficeSv": "HEINÄVESI",
+        "postalCode": "79700",
+        "relevanceBoost": 151,
+        "streetAddress": "Karpalotie 6",
+        "tolMainLineofBusinessName": "Yleistukkukauppa",
+        "wwwAddressInSearchResult": false
+      },
+      {
+        "address": {
+          "postOffice": "VANTAA",
+          "postalCode": "01530",
+          "streetAddress": "Katriinantie 20 A 2"
+        },
+        "addressLanguageId": "FI",
+        "advertiser": true,
+        "appliedBanRules": [],
+        "city": [
+          {
+            "languageId": "FI",
+            "value": "Vantaa"
+          }
+        ],
+        "cityName": "Vantaa",
+        "contactType": "OFFICE",
+        "contractValue": 151,
+        "customerType": "NONE",
+        "distinctiveSearchResult": false,
+        "financials": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "hasTiliAddress": false,
+        "homeCity": "Helsinki",
+        "id": "2489744",
+        "mainLineOfBusinessName": "Logistiikka",
+        "name": "Berner Logistiikkakeskus",
+        "operationAreas": {
+          "citiesFi": [
+            "Vantaa"
+          ]
+        },
+        "postOffice": "VANTAA",
+        "postOfficeSv": "VANDA",
+        "postalCode": "01530",
+        "relevanceBoost": 151,
+        "streetAddress": "Katriinantie 20 A 2",
+        "tolMainLineofBusinessName": "Teollisuudessa käytettävien muiden koneiden tukkukauppa",
+        "wwwAddressInSearchResult": false
+      },
+      {
+        "address": {
+          "postOffice": "HELSINKI",
+          "postalCode": "00810",
+          "streetAddress": "Hitsaajankatu 24"
+        },
+        "addressLanguageId": "FI",
+        "advertiser": true,
+        "appliedBanRules": [],
+        "city": [
+          {
+            "languageId": "FI",
+            "value": "Helsinki"
+          }
+        ],
+        "cityName": "Helsinki",
+        "contactType": "COMPANY",
+        "contractValue": 151,
+        "customerType": "NONE",
+        "distinctiveSearchResult": false,
+        "financials": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "finderUrl": "https://www.finder.fi/yritys/119082",
+        "hasTiliAddress": false,
+        "homeCity": "Helsinki",
+        "id": "119082",
+        "mainLineOfBusinessName": "Agentuuriliike",
+        "name": "Berner Oy",
+        "operationAreas": {
+          "citiesFi": [
+            "Helsinki"
+          ]
+        },
+        "postOffice": "HELSINKI",
+        "postOfficeSv": "HELSINGFORS",
+        "postalCode": "00810",
+        "relevanceBoost": 151,
+        "streetAddress": "Hitsaajankatu 24",
+        "tolMainLineofBusinessName": "Yleistukkukauppa",
+        "wwwAddressInSearchResult": false
+      },
+      {
+        "address": {
+          "postOffice": "HELSINKI",
+          "postalCode": "00810",
+          "streetAddress": "Hitsaajankatu 22"
+        },
+        "addressLanguageId": "FI",
+        "advertiser": true,
+        "appliedBanRules": [],
+        "city": [
+          {
+            "languageId": "FI",
+            "value": "Helsinki"
+          }
+        ],
+        "cityName": "Helsinki",
+        "contactType": "OFFICE",
+        "contractValue": 151,
+        "customerType": "NONE",
+        "distinctiveSearchResult": false,
+        "financials": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "hasTiliAddress": false,
+        "homeCity": "Helsinki",
+        "id": "1944986",
+        "mainLineOfBusinessName": "Myyntiedustus",
+        "name": "Berner Shop",
+        "operationAreas": {
+          "citiesFi": [
+            "Helsinki"
+          ]
+        },
+        "postOffice": "HELSINKI",
+        "postOfficeSv": "HELSINGFORS",
+        "postalCode": "00810",
+        "relevanceBoost": 151,
+        "streetAddress": "Hitsaajankatu 22",
+        "tolMainLineofBusinessName": "Yleistukkukauppa",
+        "wwwAddressInSearchResult": false
+      }
+    ],
+    "omaFonecta": {
+      "growthRank": {
+        "isGood": true,
+        "value": 0
+      },
+      "hasRankData": true,
+      "profitRank": {
+        "isGood": true,
+        "value": 0
+      },
+      "salesRank": {
+        "isGood": true,
+        "value": 0
+      }
+    },
+    "openNow": false,
+    "openingHours": [
+      "ma-pe 8-16"
+    ],
+    "openingTimesToday": "08:00 - 16:00",
+    "opentimeCurrent": {
+      "friday": {
+        "status": "open",
+        "times": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "monday": {
+        "status": "open",
+        "times": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "saturday": {
+        "status": "closed",
+        "times": []
+      },
+      "sunday": {
+        "status": "closed",
+        "times": []
+      },
+      "thursday": {
+        "status": "open",
+        "times": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "status": "open",
+        "times": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "status": "open",
+        "times": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      }
+    },
+    "ownerName": "",
+    "phone": "020 79100",
+    "postalAddress": {
+      "postOffice": "HELSINKI",
+      "postalCode": "00811",
+      "streetAddress": "PL 22"
+    },
+    "prhAliases": [
+      "BERNER AUTOMOTIVE",
+      "Heinävesi Kemi",
+      "BERNER GROUP",
+      "Konstrumed",
+      "Ordior",
+      "HL-Vihannes",
+      "Terpia",
+      "Berner Oy",
+      "Karl Beus",
+      "Berner Ab",
+      "Auto-Berner",
+      "Ainu",
+      "Belor Agro",
+      "Temana",
+      "Christian Nissen",
+      "Nokian Jalkineet",
+      "Haltija",
+      "Normomedical",
+      "Berner Ltd.",
+      "Naviter"
+    ],
+    "prhData": {
+      "miscRegistrationDates": {
+        "ennakkoperintarekisteri": "1995-03-01 00:00:00.0",
+        "kaupparekisteri": "1942-03-06 00:00:00.0",
+        "tyonantajarekisteri": "1950-02-01 00:00:00.0",
+        "veroperustietorekisteri": "1978-03-15 00:00:00.0",
+        "yTunnus": "1978-03-15 00:00:00.0"
+      },
+      "signingText": "Hallituksen jäsen ja toimitusjohtaja yhdessä sekä hallituksen jäsenet kaksi yhdessä",
+      "vatRegistrationDates": [
+        {
+          "code": "80",
+          "date": "1994-06-01 00:00:00.0",
+          "decisionDate": "2001-03-30 00:00:00.0",
+          "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+          "vatNumber": "01070115"
+        },
+        {
+          "code": "82",
+          "date": "1996-10-31 00:00:00.0",
+          "decisionDate": "2001-03-30 00:00:00.0",
+          "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+          "vatNumber": "01070115"
+        }
+      ]
+    },
+    "profilePictureExtraLargeUrls": [
+      "https://ucarecdn.com/95dc21be-a08b-4aa0-961d-f9c4ca470fc5/-/preview/600x338/",
+      "https://ucarecdn.com/cce6c1fb-3066-4ebc-b733-7a623fba932c/-/preview/600x338/",
+      "https://ucarecdn.com/83626a49-df0a-46a7-b462-6528fa1b5571/-/preview/600x338/"
+    ],
+    "profilePictureLargeUrls": [
+      "https://ucarecdn.com/95dc21be-a08b-4aa0-961d-f9c4ca470fc5/-/preview/580x377/",
+      "https://ucarecdn.com/cce6c1fb-3066-4ebc-b733-7a623fba932c/-/preview/580x377/",
+      "https://ucarecdn.com/83626a49-df0a-46a7-b462-6528fa1b5571/-/preview/580x377/"
+    ],
+    "provinceName": "Uudenmaan maakunta",
+    "provinceNameAlias": "Uusimaa",
+    "searchResultPictureUrl": "https://ucarecdn.com/95dc21be-a08b-4aa0-961d-f9c4ca470fc5/-/preview/580x377/",
+    "source": "COMPANY",
+    "tolMainLineofBusinessCode": "46901",
+    "tolMainLineofBusinessName": "Yleistukkukauppa",
+    "turnoverClassId": "10",
+    "twitter": "berneroy/",
+    "user": null
+  },
+  "industry": "Agentuuriliike",
+  "metadata": {
+    "detail_url": "https://www.finder.fi/Agentuuriliike/Berner+Oy/Helsinki/yhteystiedot/119082",
+    "fetched_at": "2025-09-22T19:24:55.727210+00:00",
+    "industry": "Agentuuriliike"
+  },
+  "search_context": {
+    "index_on_page": 1,
+    "page": 1,
+    "query": {
+      "contactType": "ALL",
+      "hasNextPage": true,
+      "hasPreviousPage": false,
+      "locationAware": false,
+      "numberSearch": false,
+      "page": 1,
+      "resultsPerPage": 15,
+      "sort": "BEST_MATCH",
+      "sortDetailed": "RELEVANCE",
+      "timestamp": "2025-09-22T22:24:41+03:00",
+      "timing": {
+        "DBQuery": 56,
+        "hakuApi": 54,
+        "hakuApiTokenValidation": 1
+      },
+      "totalResults": 3069,
+      "what": "Agentuuriliike"
+    }
+  },
+  "search_payload": {
+    "address": {
+      "postOffice": "HELSINKI",
+      "postalCode": "00810",
+      "streetAddress": "Hitsaajankatu 24"
+    },
+    "brands": [
+      "s oliver",
+      "beconfident",
+      "hejpure",
+      "foldermate",
+      "Natuk",
+      "BiC",
+      "UHU",
+      "mec",
+      "Gosh",
+      "Route66",
+      "Pure=Beuty",
+      "Atopik",
+      "M2 Beuté",
+      "unna nordic",
+      "BTB13",
+      "By Raili",
+      "Bea Pro",
+      "Murumuru",
+      "EKOPHARMA",
+      "Hai",
+      "Nokian Jalkine",
+      "Ainu",
+      "Provisor",
+      "HETI",
+      "XZ",
+      "LV",
+      "Herbina",
+      "Oxygenol",
+      "GreenCare",
+      "Mavala",
+      "Tabac",
+      "4711 Kölnisch Wasser",
+      "Tummeli",
+      "Rajamäen",
+      "Saclà",
+      "Aceto Balsa­mico del Duca di Adriano Grosoli",
+      "Limmi",
+      "Kikkoman",
+      "Lanfrancii",
+      "Omron",
+      "Lasol",
+      "Korrek",
+      "Cooper",
+      "Free",
+      "Uriage"
+    ],
+    "businessDescriptionContents": [
+      "Berner Oy on vuonna 1883 perustettu suomalainen perheyhtiö, jonka toiminta on kansainvälistä. Berner on myynnin ja markkinoinnin erikoisosaaja, joka toimii usealla eri alalla. Yrityksen pääkonttori, tuotekehitys ja tuotantolaitokset sijaitsevat Suomessa. Baltiassa ja Ruotsissa asiakkaita palvelevat tytäryhtiöt. Berner Oy pyrkii kasvamaan vakaasti toimimalla Suomessa ja lähialueilla. Vahvuutemme on monialaisuus. Tarjoamme tuotteita ja palveluita yrityksille, julkisille sektorille ja kuluttajille. Kattavaan ja laadukkaaseen tuotevalikoimaamme kuuluu kansainvälisiä ja kotimaisia huippubrändejä sekä oman tuotekehityksen ja valmistuksen tuotteita. Berner Oy on ollut rakentamassa hyvää suomalaista arkea yli 140 vuotta."
+    ],
+    "businessDescriptionTitle": "Berner - Huomisen puolustaja",
+    "businessId": "01070115",
+    "businessStatusId": "A",
+    "cityName": "Helsinki",
+    "company": {
+      "address": {
+        "postOffice": "HELSINKI",
+        "postalCode": "00810",
+        "streetAddress": "Hitsaajankatu 24"
+      },
+      "id": "119082",
+      "name": "Berner Oy",
+      "officialName": "Berner Oy"
+    },
+    "companyForm": "Osakeyhtiö",
+    "companyFormFull": "Osakeyhtiö",
+    "companyOfficialName": "Berner Oy",
+    "companyUrl": "http://www.berner.fi",
+    "contactForm": false,
+    "contactType": "COMPANY",
+    "coordinates": {
+      "lat": 60.1927917,
+      "lon": 25.0348018
+    },
+    "coverPictureUrl": "https://ucarecdn.com/056f7ffd-2d0a-48dd-b025-1fb127bb8a41/-/preview/1600x400/",
+    "customerType": "NONE",
+    "decisionPersons": [
+      {
+        "decisionPersonId": "300549911",
+        "firstName": "Sorja",
+        "fonectaId": "3250431",
+        "gender": "F",
+        "lastName": "Mattsson",
+        "mbsId": "13323867",
+        "officeId": "119082",
+        "phone": "0503686556",
+        "positionId": "2632",
+        "positionText": "tuotepäällikkö",
+        "responsibilities": [
+          "50701"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300549930",
+        "firstName": "Paula",
+        "fonectaId": "3077078",
+        "gender": "F",
+        "lastName": "Sundström",
+        "mbsId": "13323819",
+        "officeId": "119082",
+        "phone": "0503259501",
+        "positionId": "2942",
+        "positionText": "tuoteryhmäpäällikkö",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300549959",
+        "firstName": "Kalle",
+        "fonectaId": "3309856",
+        "gender": "M",
+        "lastName": "Erkkola",
+        "mbsId": "13323836",
+        "officeId": "119082",
+        "phone": "0503414848",
+        "positionId": "2141",
+        "positionText": "liiketoimintajohtaja",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "satId": "752936",
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300549968",
+        "firstName": "Kari",
+        "fonectaId": "6796061",
+        "gender": "M",
+        "lastName": "Erkkilä",
+        "mbsId": "40618517",
+        "officeId": "119082",
+        "phone": "0500958300",
+        "positionId": "2032",
+        "positionText": "aluepäällikkö",
+        "responsibilities": [],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300549973",
+        "firstName": "Sirpa",
+        "fonectaId": "1206195",
+        "gender": "F",
+        "lastName": "Nuutinen",
+        "mbsId": "98559694",
+        "officeId": "119082",
+        "phone": "0407424364",
+        "positionId": "2942",
+        "positionText": "myyntipäällikkö",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300550008",
+        "firstName": "Sari",
+        "fonectaId": "9502421",
+        "gender": "F",
+        "lastName": "Relander",
+        "mbsId": "102817386",
+        "officeId": "119082",
+        "phone": "0500886900",
+        "positionId": "2942",
+        "positionText": "myyntipäällikkö",
+        "responsibilities": [
+          "50103",
+          "50309"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300550020",
+        "firstName": "Mika",
+        "fonectaId": "9764867",
+        "gender": "M",
+        "lastName": "Pirhonen",
+        "mbsId": "126201214",
+        "officeId": "119082",
+        "phone": "0408313451",
+        "positionId": "2141",
+        "positionText": "liiketoimintajohtaja",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "satId": "752946",
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300550028",
+        "firstName": "Sanni",
+        "fonectaId": "9772230",
+        "gender": "F",
+        "lastName": "Väinölä",
+        "mbsId": "126926851",
+        "officeId": "119082",
+        "phone": "0505018744",
+        "positionId": "2932",
+        "positionText": "brändipäällikkö",
+        "responsibilities": [
+          "50105"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300550031",
+        "firstName": "Nicolas",
+        "fonectaId": "3189632",
+        "gender": "M",
+        "lastName": "Berner",
+        "mbsId": "133685384",
+        "officeId": "119082",
+        "phone": "0400501511",
+        "positionId": "2005",
+        "positionText": "hallituksen puheenjohtaja",
+        "responsibilities": [
+          "50101"
+        ],
+        "responsibilitiesText": [],
+        "satId": "131409",
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300550044",
+        "firstName": "Christa",
+        "fonectaId": "9863954",
+        "gender": "F",
+        "lastName": "Eklund",
+        "mbsId": "134920633",
+        "officeId": "119082",
+        "phone": "0503083363",
+        "positionId": "2142",
+        "positionText": "business manager",
+        "responsibilities": [],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300550046",
+        "firstName": "Kirsti",
+        "fonectaId": "3316470",
+        "gender": "F",
+        "lastName": "Vesterinen",
+        "mbsId": "145080790",
+        "officeId": "119082",
+        "phone": "0503779172",
+        "positionId": "2942",
+        "positionText": "tuoteryhmäpäällikkö",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300550049",
+        "firstName": "Pirjo",
+        "fonectaId": "9972552",
+        "gender": "F",
+        "lastName": "Alarotu",
+        "mbsId": "145082153",
+        "officeId": "119082",
+        "phone": "0504922287",
+        "positionId": "2942",
+        "positionText": "myyntipäällikkö",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300550061",
+        "firstName": "Henriikka",
+        "fonectaId": "9404535",
+        "gender": "F",
+        "lastName": "Soini",
+        "mbsId": "147189298",
+        "officeId": "119082",
+        "phone": "0408223769",
+        "positionId": "2942",
+        "positionText": "tuoteryhmäpäällikkö",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "300550085",
+        "firstName": "Jussi",
+        "fonectaId": "4137555",
+        "gender": "M",
+        "lastName": "Peltonen",
+        "mbsId": "194276566",
+        "officeId": "119082",
+        "phone": "0407769729",
+        "positionId": "2632",
+        "positionText": "tuotepäällikkö",
+        "responsibilities": [
+          "50701"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "613299864",
+        "firstName": "Antti",
+        "fonectaId": "1049277",
+        "gender": "M",
+        "lastName": "Korpiniemi",
+        "mbsId": "240514975",
+        "officeId": "119082",
+        "phone": "0505513720",
+        "positionId": "2011",
+        "positionText": "toimitusjohtaja",
+        "prhId": "-10357974",
+        "responsibilities": [
+          "50101"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "629638399",
+        "firstName": "Tomi",
+        "fonectaId": "1092183",
+        "gender": "M",
+        "lastName": "Virtanen",
+        "mbsId": "241138255",
+        "officeId": "119082",
+        "phone": "0438244907",
+        "positionId": "2231",
+        "positionText": "talous- ja tietohallintojohtaja",
+        "responsibilities": [
+          "50102",
+          "50501"
+        ],
+        "responsibilitiesText": [],
+        "satId": "1435161",
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "1060183284",
+        "firstName": "Olli-Pekka",
+        "fonectaId": "1288701",
+        "gender": "M",
+        "lastName": "Taivalmaa",
+        "mbsId": "251546838",
+        "officeId": "119082",
+        "phone": "0404867693",
+        "positionId": "2942",
+        "positionText": "myyntipäällikkö",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "3649703680",
+        "firstName": "Juha",
+        "fonectaId": "1627467",
+        "gender": "M",
+        "lastName": "Starck",
+        "mbsId": "255681724",
+        "officeId": "119082",
+        "phone": "0505223790",
+        "positionId": "2811",
+        "positionText": "toimitusketjujohtaja",
+        "responsibilities": [
+          "50705"
+        ],
+        "responsibilitiesText": [],
+        "satId": "3755771",
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "5453909750",
+        "firstName": "Kari",
+        "fonectaId": "3320304",
+        "gender": "M",
+        "lastName": "Tuokko",
+        "mbsId": "256055628",
+        "officeId": "119082",
+        "phone": "0405670254",
+        "positionId": "2812",
+        "positionText": "logistiikkapäällikkö",
+        "responsibilities": [
+          "50705",
+          "50706"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "5453909766",
+        "firstName": "Maarit",
+        "fonectaId": "1419363",
+        "gender": "F",
+        "lastName": "Lepén",
+        "mbsId": "256055629",
+        "officeId": "119082",
+        "phone": "0405393303",
+        "positionId": "2941",
+        "positionText": "myynti- ja viestintäjohtaja",
+        "responsibilities": [
+          "50103",
+          "50105",
+          "50310",
+          "50112"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "5453909807",
+        "firstName": "Ari",
+        "fonectaId": "4129971",
+        "gender": "M",
+        "lastName": "Pohjanmaa",
+        "mbsId": "256055631",
+        "officeId": "119082",
+        "phone": "0405600633",
+        "positionId": "2942",
+        "positionText": "myyntipäällikkö",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "5453909818",
+        "firstName": "Kari",
+        "fonectaId": "1516996",
+        "gender": "M",
+        "lastName": "Pietikäinen",
+        "mbsId": "256055632",
+        "officeId": "119082",
+        "phone": "0400747539",
+        "positionId": "2942",
+        "positionText": "avainasiakaspäällikkö",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "5573602795",
+        "firstName": "Petri",
+        "fonectaId": "1862490",
+        "gender": "M",
+        "lastName": "Tervonen",
+        "mbsId": "256075496",
+        "officeId": "119082",
+        "phone": "0505473851",
+        "positionId": "2141",
+        "positionText": "liiketoimintajohtaja",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "satId": "4860089",
+        "statusId": "A"
+      },
+      {
+        "decisionPersonId": "5939075468",
+        "firstName": "Annastiina",
+        "fonectaId": "1917674",
+        "gender": "F",
+        "lastName": "Palmroth-Holst",
+        "mbsId": "256157808",
+        "officeId": "119082",
+        "phone": "0405022939",
+        "positionId": "2141",
+        "positionText": "liiketoimintajohtaja",
+        "responsibilities": [
+          "50103"
+        ],
+        "responsibilitiesText": [],
+        "satId": "4981327",
+        "statusId": "A"
+      }
+    ],
+    "distinctiveSearchResult": false,
+    "email": "info@berner.fi",
+    "facebookUrl": "http://facebook.com/BernerOy/",
+    "financials": [
+      {
+        "balance": "",
+        "companyForm": "Osakeyhtiö",
+        "currentRatio": "",
+        "ebitda": "4.40",
+        "equity": "",
+        "exportsBusiness": true,
+        "fiscalYear": "2024",
+        "fiscalYearWithMonth": "202412",
+        "importsBusiness": true,
+        "netIncomes": "9087",
+        "numberOfEmployees": "555",
+        "officePersonnelSizeId": "H",
+        "operatingMargin": "2.30",
+        "operatingProfit": "17514",
+        "quickRatio": "",
+        "returnOnInvestment": "",
+        "solvency": "",
+        "turnover": "393154",
+        "turnoverClassId": "10",
+        "turnoverPerEmployee": "708",
+        "turnoverPercentageChange": "-5.50"
+      },
+      {
+        "balance": "",
+        "companyForm": "Osakeyhtiö",
+        "currentRatio": "",
+        "ebitda": "2.90",
+        "equity": "",
+        "exportsBusiness": true,
+        "fiscalYear": "2023",
+        "fiscalYearWithMonth": "202312",
+        "importsBusiness": true,
+        "netIncomes": "4668",
+        "numberOfEmployees": "560",
+        "officePersonnelSizeId": "H",
+        "operatingMargin": "1.10",
+        "operatingProfit": "16940",
+        "quickRatio": "",
+        "returnOnInvestment": "",
+        "solvency": "",
+        "turnover": "416054",
+        "turnoverClassId": "10",
+        "turnoverPerEmployee": "743",
+        "turnoverPercentageChange": "9.70"
+      },
+      {
+        "balance": "",
+        "companyForm": "Osakeyhtiö",
+        "currentRatio": "",
+        "ebitda": "3.60",
+        "equity": "",
+        "exportsBusiness": true,
+        "fiscalYear": "2022",
+        "fiscalYearWithMonth": "202212",
+        "importsBusiness": true,
+        "netIncomes": "8433",
+        "numberOfEmployees": "439",
+        "officePersonnelSizeId": "H",
+        "operatingMargin": "2.20",
+        "operatingProfit": "18656",
+        "quickRatio": "",
+        "returnOnInvestment": "",
+        "solvency": "",
+        "turnover": "379168",
+        "turnoverClassId": "10",
+        "turnoverPerEmployee": "864",
+        "turnoverPercentageChange": "55.40"
+      },
+      {
+        "balance": "",
+        "companyForm": "Osakeyhtiö",
+        "currentRatio": "",
+        "ebitda": "4.20",
+        "equity": "",
+        "exportsBusiness": true,
+        "fiscalYear": "2021",
+        "fiscalYearWithMonth": "202112",
+        "importsBusiness": true,
+        "netIncomes": "6331",
+        "numberOfEmployees": "405",
+        "officePersonnelSizeId": "H",
+        "operatingMargin": "2.60",
+        "operatingProfit": "18109",
+        "quickRatio": "",
+        "returnOnInvestment": "",
+        "solvency": "",
+        "turnover": "244019",
+        "turnoverClassId": "10",
+        "turnoverPerEmployee": "603",
+        "turnoverPercentageChange": "8.90"
+      },
+      {
+        "balance": "",
+        "companyForm": "Osakeyhtiö",
+        "currentRatio": "",
+        "ebitda": "6.60",
+        "equity": "",
+        "exportsBusiness": true,
+        "fiscalYear": "2020",
+        "fiscalYearWithMonth": "202012",
+        "importsBusiness": true,
+        "netIncomes": "10730",
+        "numberOfEmployees": "392",
+        "officePersonnelSizeId": "H",
+        "operatingMargin": "4.80",
+        "operatingProfit": "17140",
+        "quickRatio": "",
+        "returnOnInvestment": "",
+        "solvency": "",
+        "turnover": "224017",
+        "turnoverClassId": "10",
+        "turnoverPerEmployee": "571",
+        "turnoverPercentageChange": "2.20"
+      }
+    ],
+    "hasAddress": true,
+    "hasCompanyUrl": true,
+    "hasOperatorName": false,
+    "hasOwnerName": false,
+    "hasPaidPackage": true,
+    "hasVisibility": true,
+    "homeCity": "Helsinki",
+    "id": "119082",
+    "instagramUrl": "https://www.instagram.com/berneroy1883/",
+    "lineofBusinessNames": [
+      "Agentuuriliike",
+      "Kemikaalien agentuuriliike",
+      "Elintarvikkeiden agentuuriliike"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/company/berner",
+    "logoUrl": "https://ucarecdn.com/6faf2bc0-da99-4c4a-9e42-c36d1003987d/-/preview/500x500/",
+    "mainLineOfBusinessName": "Agentuuriliike",
+    "mainSuperCategoryName": "Agentuuriliike",
+    "mobile": "020 79100",
+    "name": "Berner Oy",
+    "office": {
+      "id": "119082",
+      "name": "Berner Oy"
+    },
+    "officePersonnelSizeId": "H",
+    "omaFonecta": {
+      "hasRankData": false
+    },
+    "openNow": false,
+    "openingHours": [
+      "ma-pe 8-16"
+    ],
+    "openingTimesToday": "08:00 - 16:00",
+    "opentimeCurrent": {
+      "friday": {
+        "status": "open",
+        "times": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "monday": {
+        "status": "open",
+        "times": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "saturday": {
+        "status": "closed",
+        "times": []
+      },
+      "sunday": {
+        "status": "closed",
+        "times": []
+      },
+      "thursday": {
+        "status": "open",
+        "times": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "status": "open",
+        "times": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "status": "open",
+        "times": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      }
+    },
+    "ownerName": "",
+    "phone": "020 79100",
+    "postalAddress": {
+      "postOffice": "HELSINKI",
+      "postalCode": "00811",
+      "streetAddress": "PL 22"
+    },
+    "prhAliases": [
+      "BERNER AUTOMOTIVE",
+      "Heinävesi Kemi",
+      "BERNER GROUP",
+      "Konstrumed",
+      "Ordior",
+      "HL-Vihannes",
+      "Terpia",
+      "Berner Oy",
+      "Karl Beus",
+      "Berner Ab",
+      "Auto-Berner",
+      "Ainu",
+      "Belor Agro",
+      "Temana",
+      "Christian Nissen",
+      "Nokian Jalkineet",
+      "Haltija",
+      "Normomedical",
+      "Berner Ltd.",
+      "Naviter"
+    ],
+    "prhData": {
+      "miscRegistrationDates": {
+        "ennakkoperintarekisteri": "1995-03-01 00:00:00.0",
+        "kaupparekisteri": "1942-03-06 00:00:00.0",
+        "tyonantajarekisteri": "1950-02-01 00:00:00.0",
+        "veroperustietorekisteri": "1978-03-15 00:00:00.0",
+        "yTunnus": "1978-03-15 00:00:00.0"
+      },
+      "signingText": "Hallituksen jäsen ja toimitusjohtaja yhdessä sekä hallituksen jäsenet kaksi yhdessä",
+      "vatRegistrationDates": [
+        {
+          "code": "80",
+          "date": "1994-06-01 00:00:00.0",
+          "decisionDate": "2001-03-30 00:00:00.0",
+          "description": "Liiketoiminnasta arvonlisäverovelvollinen",
+          "vatNumber": "01070115"
+        },
+        {
+          "code": "82",
+          "date": "1996-10-31 00:00:00.0",
+          "decisionDate": "2001-03-30 00:00:00.0",
+          "description": "Kiinteistön käyttöoikeuden luovuttamisesta",
+          "vatNumber": "01070115"
+        }
+      ]
+    },
+    "profilePictureExtraLargeUrls": [
+      "https://ucarecdn.com/95dc21be-a08b-4aa0-961d-f9c4ca470fc5/-/preview/600x338/",
+      "https://ucarecdn.com/cce6c1fb-3066-4ebc-b733-7a623fba932c/-/preview/600x338/",
+      "https://ucarecdn.com/83626a49-df0a-46a7-b462-6528fa1b5571/-/preview/600x338/"
+    ],
+    "profilePictureLargeUrls": [
+      "https://ucarecdn.com/95dc21be-a08b-4aa0-961d-f9c4ca470fc5/-/preview/580x377/",
+      "https://ucarecdn.com/cce6c1fb-3066-4ebc-b733-7a623fba932c/-/preview/580x377/",
+      "https://ucarecdn.com/83626a49-df0a-46a7-b462-6528fa1b5571/-/preview/580x377/"
+    ],
+    "provinceName": "Uudenmaan maakunta",
+    "provinceNameAlias": "Uusimaa",
+    "searchResultPictureUrl": "https://ucarecdn.com/95dc21be-a08b-4aa0-961d-f9c4ca470fc5/-/preview/580x377/",
+    "tolMainLineofBusinessCode": "46901",
+    "tolMainLineofBusinessName": "Yleistukkukauppa",
+    "turnoverClassId": "10",
+    "twitter": "berneroy/"
+  }
+}
