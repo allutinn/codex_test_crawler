@@ -26,8 +26,10 @@ class CompanyDetailFetcher:
         company_name: str,
         city: Optional[str],
         category: str,
+        *,
+        detail_url: Optional[str] = None,
     ) -> CompanyDetail:
-        url = build_company_detail_url(category or industry, company_name, city, company_id)
+        url = detail_url or build_company_detail_url(category or industry, company_name, city, company_id)
         data = await self._session.goto(url)
         state = data["props"]["pageProps"]["dehydratedState"]["queries"][0]["state"]["data"]
         return CompanyDetail(

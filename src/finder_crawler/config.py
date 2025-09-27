@@ -16,16 +16,23 @@ DEFAULT_USER_AGENT = (
 class CrawlConfig:
     """Runtime configuration for the Finder.fi crawler."""
 
-    output_dir: Path = Path("data/output")
+    output_dir: Path = Path("data/runs")
     headless: bool = True
-    min_delay_seconds: float = 1.5
-    max_delay_seconds: float = 3.5
+    min_delay_seconds: float = 10.0
+    max_delay_seconds: float = 20.0
     navigation_timeout_ms: int = 45_000
     user_agent: str = DEFAULT_USER_AGENT
     industries_filter: Optional[Iterable[str]] = None
     max_pages_per_industry: Optional[int] = None
     max_companies_per_industry: Optional[int] = None
     persist_raw_search: bool = False
+    run_id: Optional[str] = None
+    resume_from: Optional[Path] = None
+    max_detail_retries: int = 3
+    retry_backoff_seconds: float = 60.0
+    failure_spike_threshold: int = 5
+    failure_backoff_seconds: float = 300.0
+    max_failure_breaks: int = 3
 
     def normalise(self) -> "CrawlConfig":
         self.output_dir = Path(self.output_dir)
@@ -35,6 +42,11 @@ class CrawlConfig:
                 self.max_delay_seconds,
                 self.min_delay_seconds,
             )
+        self.max_detail_retries = max(1, int(self.max_detail_retries))
+        self.retry_backoff_seconds = max(0.0, float(self.retry_backoff_seconds))
+        self.failure_spike_threshold = max(1, int(self.failure_spike_threshold))
+        self.failure_backoff_seconds = max(0.0, float(self.failure_backoff_seconds))
+        self.max_failure_breaks = max(0, int(self.max_failure_breaks))
         return self
 
 
@@ -46,4 +58,5 @@ class RunMetadata:
     total_companies: int = 0
     pages_visited: int = 0
     companies_written: int = 0
+    failed_companies: int = 0
 

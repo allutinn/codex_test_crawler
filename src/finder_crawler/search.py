@@ -45,16 +45,24 @@ class SearchCrawler:
         self._session = session
         self._config = config
 
-    async def iterate_results(self, industry: str) -> AsyncIterator[SearchResult]:
+    async def iterate_results(
+        self,
+        industry: str,
+        *,
+        start_page: int = 1,
+        start_index: int = 1,
+    ) -> AsyncIterator[SearchResult]:
         encoded = quote_plus(industry)
-        page = 1
+        page = max(start_page, 1)
         total_pages = None
         yielded = 0
 
         while True:
             if self._config.max_pages_per_industry and page > self._config.max_pages_per_industry:
                 break
-            data = await self._session.goto(f"https://www.finder.fi/search?what={encoded}&page={page}")
+            data = await self._session.goto(
+                f"https://www.finder.fi/search?what={encoded}&page={page}&type=company"
+            )
             query_state = data["props"]["pageProps"]["dehydratedState"]["queries"][0]["state"]
             results: List[Mapping[str, Any]] = query_state["data"]["results"]
             query_info: Dict[str, Any] = dict(query_state["data"].get("query", {}))
@@ -64,6 +72,16 @@ class SearchCrawler:
                 total_pages = math.ceil(total_results / per_page) if per_page else 1
 
             for idx, payload in enumerate(results, start=1):
+                if page == start_page and idx < max(start_index, 1):
+                    continue
+                result_type = str(
+                    payload.get("type")
+                    or payload.get("resultType")
+                    or payload.get("company", {}).get("type")
+                    or "company"
+                ).lower()
+                if result_type != "company" and not payload.get("company"):
+                    continue
                 if self._config.max_companies_per_industry and yielded >= self._config.max_companies_per_industry:
                     return
                 yield SearchResult(
